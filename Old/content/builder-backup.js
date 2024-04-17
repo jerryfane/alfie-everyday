@@ -1,12 +1,10 @@
 
 let data;
-const parentInscriptionId = 'parentInscriptionId'; 
-
 
 const parseHTML=t=>{var e=document.createElement("template");return e.innerHTML=t,e.content}
 
 
-,startDate=new Date("01.03.2009"),
+,startDate=new Date("03.01.2009"),
 
 
 formatDate=t=>`${t.getDate().toString().padStart(2,"0")}/${(t.getMonth()+1).toString().padStart(2,"0")}/`+t.getFullYear().toString().slice(-2),formatValue=t=>t?(t=t.replace(/ /g,"").replace(",",".")).slice(0,7):""
@@ -64,59 +62,56 @@ formatDate=t=>`${t.getDate().toString().padStart(2,"0")}/${(t.getMonth()+1).toSt
       
       },
 
-      loadScript = (url, isModule = false) => new Promise((resolve, reject) => {
-        var script = document.createElement('script');
-        script.type = isModule ? 'module' : 'text/javascript';
-        script.src = url;
-        script.async = true;
-        script.onload = () => {
-            resolve();
-        };
-        script.onerror = () => {
-            console.error(`Script failed to load: ${url}`);
-            reject(new Error(`Script failed to load: ${url}`));
-        };
-        document.head.appendChild(script);
-    })
-    
+      loadScript(url, isModule = false) {
+        return new Promise((resolve, reject) => {
+            const script = document.createElement('script');
+            script.type = isModule ? 'module' : 'text/javascript';
+            script.src = url;
+            script.async = true;
+            script.onload = () => {
+                console.log(`Script loaded successfully: ${url}`);
+                resolve();
+            };
+            script.onerror = () => {
+                console.error(`Script failed to load: ${url}`);
+                reject(new Error(`Script failed to load: ${url}`));
+            };
+            document.head.appendChild(script);
+        });
+    }
     
     , main = async () => {
       try {
           addFonts();
           addStyles();
-          await loadScript('/content/3280180e7872eaef3cae589f3122f2f9527d3c1c30445cb13fc6eef03435aa66i0'); // OrdJS
+          await loadScript('/content/3280180e7872eaef3cae589f3122f2f9527d3c1c30445cb13fc6eef03435aa66i0'); // Assume this script prepares something for OrdJS
   
+          // Assuming 'OrdJS' is initialized here after the script is loaded
           const ord = new OrdJS('');
+          const parentInscriptionId = 'parentInscriptionId'; 
           const children = await ord.getChildren(parentInscriptionId);
   
           if (children.ids && children.ids.length > 0) {
               const lastChildId = children.ids[children.ids.length - 1];
               const dataUrl = `/content/${lastChildId}`;
+  
+              console.log(`Data URL: ${dataUrl}`);
+  
+              // Properly await the imported module
               const module = await import(dataUrl);
               data = module.data;
-
-              let wrapper = document.querySelector('.wrapper');
-              if (!wrapper) {
-                  wrapper = document.createElement('div');
-                  wrapper.className = 'wrapper';
-                  document.body.appendChild(wrapper);
-              }
-
-              window.builder=(e,a,t)=>{const r=[];if(0===t)for(let t=0;t<e.length;t+=2){var n=a[e[t]],o=e[t+1];r.push(...Array(o).fill(n))}else e.forEach(t=>{r.push(a[t])});r.forEach((t,e)=>{var e=53*Math.floor(e/53)+e,a=e+53,r=data[e],e=addDays(startDate,e),n=addDays(startDate,a),a=null!=(a=data[a])?a:"",o=document.querySelector(".wrapper");null!=o&&o.append(parseHTML(`<div class="box" style="background: ${t}; color: ${pickTextColor(t)}">
-                <div>${formatDate(e)}<br>$${formatValue(r)}</div>
-                <div>${formatDate(n)}<br>${a?"$"+formatValue(a):""}</div>
-                </div>`))})
-              };
-
-              
           }
       } catch (error) {
           console.error('An error occurred in the main function:', error);
       }
   };
   
-      
-    ;main()
+  main();
+  
     
-
+    ;main(),
     
+    window.builder=(e,a,t)=>{const r=[];if(0===t)for(let t=0;t<e.length;t+=2){var n=a[e[t]],o=e[t+1];r.push(...Array(o).fill(n))}else e.forEach(t=>{r.push(a[t])});r.forEach((t,e)=>{var e=53*Math.floor(e/53)+e,a=e+53,r=data[e],e=addDays(startDate,e),n=addDays(startDate,a),a=null!=(a=data[a])?a:"",o=document.querySelector(".wrapper");null!=o&&o.append(parseHTML(`<div class="box" style="background: ${t}; color: ${pickTextColor(t)}">
+          <div>${formatDate(e)}<br>$${formatValue(r)}</div>
+          <div>${formatDate(n)}<br>${a?"$"+formatValue(a):""}</div>
+        </div>`))})};

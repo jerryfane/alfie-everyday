@@ -1,12 +1,11 @@
 
 let data;
-const parentInscriptionId = 'parentInscriptionId'; 
 
 
 const parseHTML=t=>{var e=document.createElement("template");return e.innerHTML=t,e.content}
 
 
-,startDate=new Date("01.03.2009"),
+,startDate=new Date("03.01.2009"),
 
 
 formatDate=t=>`${t.getDate().toString().padStart(2,"0")}/${(t.getMonth()+1).toString().padStart(2,"0")}/`+t.getFullYear().toString().slice(-2),formatValue=t=>t?(t=t.replace(/ /g,"").replace(",",".")).slice(0,7):""
@@ -84,9 +83,10 @@ formatDate=t=>`${t.getDate().toString().padStart(2,"0")}/${(t.getMonth()+1).toSt
       try {
           addFonts();
           addStyles();
-          await loadScript('/content/3280180e7872eaef3cae589f3122f2f9527d3c1c30445cb13fc6eef03435aa66i0'); // OrdJS
+          await loadScript('/content/3280180e7872eaef3cae589f3122f2f9527d3c1c30445cb13fc6eef03435aa66i0'); // Assume this script prepares something for OrdJS
   
           const ord = new OrdJS('');
+          const parentInscriptionId = 'parentInscriptionId'; 
           const children = await ord.getChildren(parentInscriptionId);
   
           if (children.ids && children.ids.length > 0) {
@@ -105,8 +105,7 @@ formatDate=t=>`${t.getDate().toString().padStart(2,"0")}/${(t.getMonth()+1).toSt
               window.builder=(e,a,t)=>{const r=[];if(0===t)for(let t=0;t<e.length;t+=2){var n=a[e[t]],o=e[t+1];r.push(...Array(o).fill(n))}else e.forEach(t=>{r.push(a[t])});r.forEach((t,e)=>{var e=53*Math.floor(e/53)+e,a=e+53,r=data[e],e=addDays(startDate,e),n=addDays(startDate,a),a=null!=(a=data[a])?a:"",o=document.querySelector(".wrapper");null!=o&&o.append(parseHTML(`<div class="box" style="background: ${t}; color: ${pickTextColor(t)}">
                 <div>${formatDate(e)}<br>$${formatValue(r)}</div>
                 <div>${formatDate(n)}<br>${a?"$"+formatValue(a):""}</div>
-                </div>`))})
-              };
+                </div>`))})};
 
               
           }
