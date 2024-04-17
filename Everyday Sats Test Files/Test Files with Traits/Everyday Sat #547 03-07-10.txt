@@ -1,5 +1,0 @@
-TYPE: Gamer Girl
-EMOTIONS: optimism
-HEAD: None
-EYES: None
-BODY: Cyber vest

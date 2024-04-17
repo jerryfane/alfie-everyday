@@ -1,5 +1,0 @@
-TYPE: Degen
-EMOTIONS: optimism
-HEAD: None
-EYES: Degen
-BODY: Black jacket
