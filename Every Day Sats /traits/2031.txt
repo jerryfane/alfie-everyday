@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: depression
+HEAD: BDSM hat
+EYES: Mog
+BODY: Hawaiian shirt

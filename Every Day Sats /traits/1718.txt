@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: euphoria
+HEAD: North Korean hat
+EYES: Nuked
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: depression
+HEAD: Cowboy hat
+EYES: None
+BODY: Black turtleneck

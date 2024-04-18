@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: hope
+HEAD: Royal Crown
+EYES: Degen
+BODY: Racing jacket

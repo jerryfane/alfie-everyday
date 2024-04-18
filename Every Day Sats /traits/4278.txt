@@ -1,0 +1,5 @@
+TYPE: Igor Bogdanoff
+EMOTIONS: euphoria
+HEAD: Captain hat
+EYES: None
+BODY: Kimono

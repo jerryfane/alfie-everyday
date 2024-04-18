@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: Wizard hat
+EYES: Lasereyes
+BODY: Tank top

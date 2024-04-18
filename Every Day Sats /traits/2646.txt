@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: Bitcoin cap
+EYES: None
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: euphoria
+HEAD: Wif hat
+EYES: Degen
+BODY: Pinc turtleneck

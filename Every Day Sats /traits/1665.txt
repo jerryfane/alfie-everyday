@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: anger
+HEAD: Wizard hat
+EYES: Nuked
+BODY: Prison jumpsuit

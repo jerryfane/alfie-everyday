@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: depression
+HEAD: BDSM hat
+EYES: None
+BODY: Gary suit

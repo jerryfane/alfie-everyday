@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: depression
+HEAD: Wif hat
+EYES: Future
+BODY: Prison jumpsuit

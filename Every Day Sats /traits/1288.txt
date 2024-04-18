@@ -1,0 +1,5 @@
+TYPE: Classic nerd
+EMOTIONS: optimism
+HEAD: French Beret
+EYES: X
+BODY: Matrix Trenchcoat

@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: depression
+HEAD: Red hat
+EYES: Black raybans
+BODY: Orange pimp coat_

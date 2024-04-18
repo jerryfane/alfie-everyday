@@ -1,0 +1,5 @@
+TYPE: E Girl
+EMOTIONS: depression
+HEAD: Beanie cap
+EYES: None
+BODY: None

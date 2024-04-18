@@ -1,0 +1,5 @@
+TYPE: Bitcoin Bull
+EMOTIONS: optimism
+HEAD: Captain hat
+EYES: None
+BODY: Black jacket

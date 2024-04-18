@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: optimism
+HEAD: Cowboy hat
+EYES: None
+BODY: Brown jacket

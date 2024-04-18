@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: hope
+HEAD: Purple cap
+EYES: Mog
+BODY: Stripe t-shirt

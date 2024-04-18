@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: hope
+HEAD: Farmer hat
+EYES: Mog
+BODY: Farmer shirt

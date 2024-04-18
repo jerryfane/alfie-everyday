@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: depression
+HEAD: Cowboy hat
+EYES: Deal with it
+BODY: Gary suit

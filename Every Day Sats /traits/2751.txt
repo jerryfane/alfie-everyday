@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: euphoria
+HEAD: Chef’s hat
+EYES: Nuked
+BODY: Gun holster

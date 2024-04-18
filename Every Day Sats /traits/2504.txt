@@ -1,0 +1,5 @@
+TYPE: skeleton
+EMOTIONS: none
+HEAD: Cowboy hat
+EYES: Mog
+BODY: Iron Man

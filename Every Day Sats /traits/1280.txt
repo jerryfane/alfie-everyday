@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: optimism
+HEAD: Mario cap
+EYES: Degen
+BODY: Green blazer

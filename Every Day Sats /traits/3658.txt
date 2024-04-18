@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: hope
+HEAD: McD cap
+EYES: Lasereyes
+BODY: Matrix Trenchcoat

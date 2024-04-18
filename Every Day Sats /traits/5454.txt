@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: Purple cap
+EYES: None
+BODY: Lifebuoy

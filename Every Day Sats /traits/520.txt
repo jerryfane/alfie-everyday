@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: hope
+HEAD: BDSM hat
+EYES: None
+BODY: Cream turtleneck

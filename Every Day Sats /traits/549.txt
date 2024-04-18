@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: hope
+HEAD: None
+EYES: Mog
+BODY: Moncler Jacket

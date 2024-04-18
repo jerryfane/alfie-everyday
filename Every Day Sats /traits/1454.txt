@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: euphoria
+HEAD: Vietnam helmet
+EYES: Nuked
+BODY: White t-shirt

@@ -1,0 +1,5 @@
+TYPE: KevinChang
+EMOTIONS: none
+HEAD: North Korean hat
+EYES: Professor
+BODY: none

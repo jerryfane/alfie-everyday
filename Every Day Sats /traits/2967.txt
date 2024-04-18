@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: anger
+HEAD: Wif hat
+EYES: Elvis
+BODY: Racing jacket

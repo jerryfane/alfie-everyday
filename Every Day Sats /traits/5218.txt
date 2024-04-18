@@ -1,0 +1,5 @@
+TYPE: Igor Bogdanoff
+EMOTIONS: optimism
+HEAD: Bucket hat
+EYES: Lasereyes
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: anger
+HEAD: Bitcoin cap
+EYES: Nuked
+BODY: Matrix Trenchcoat

@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: anger
+HEAD: BDSM hat
+EYES: Mog
+BODY: Gun holster

@@ -1,0 +1,5 @@
+TYPE: Stoned Fox
+EMOTIONS: none
+HEAD: Wif hat
+EYES: none
+BODY: Stripe t-shirt

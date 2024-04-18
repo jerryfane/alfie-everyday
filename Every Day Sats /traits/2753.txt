@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: depression
+HEAD: Supreme hat
+EYES: Black raybans
+BODY: Prada suit

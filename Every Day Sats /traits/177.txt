@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: optimism
+HEAD: Heisenberg hat
+EYES: Gaga
+BODY: None

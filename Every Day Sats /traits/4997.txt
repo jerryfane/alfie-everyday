@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: hope
+HEAD: Rug merchant hat
+EYES: Deal with it
+BODY: Rug merchant

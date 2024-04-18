@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: anger
+HEAD: Gamer headset
+EYES: none
+BODY: Green blazer

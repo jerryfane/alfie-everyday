@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: hope
+HEAD: Supreme hat
+EYES: Guy Fawkes mask
+BODY: Black turtleneck

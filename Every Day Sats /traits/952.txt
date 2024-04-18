@@ -1,0 +1,5 @@
+TYPE: Igor Bogdanoff
+EMOTIONS: anger
+HEAD: Red hat
+EYES: Bitcoin
+BODY: Prada suit

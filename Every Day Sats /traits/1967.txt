@@ -1,0 +1,5 @@
+TYPE: Doomer Girl
+EMOTIONS: hope
+HEAD: Gamer headset
+EYES: none
+BODY: Green turtleneck

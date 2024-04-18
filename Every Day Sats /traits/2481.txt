@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: anger
+HEAD: Cowboy hat
+EYES: Degen
+BODY: Hawaiian shirt

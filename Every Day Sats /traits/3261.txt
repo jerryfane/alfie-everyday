@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: optimism
+HEAD: Supreme hat
+EYES: Degen
+BODY: Purple t-shirt

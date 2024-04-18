@@ -1,0 +1,5 @@
+TYPE: Ponzi Presenter
+EMOTIONS: optimism
+HEAD: Rug merchant hat
+EYES: Professor
+BODY: Rug merchant

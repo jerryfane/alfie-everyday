@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: depression
+HEAD: None
+EYES: Degen
+BODY: White t-shirt

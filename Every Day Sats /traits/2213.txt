@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: optimism
+HEAD: Mario cap
+EYES: Mog
+BODY: None

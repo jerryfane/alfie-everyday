@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: optimism
+HEAD: Mario cap
+EYES: Professor
+BODY: None

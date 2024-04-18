@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: euphoria
+HEAD: Bitcoin cap
+EYES: None
+BODY: None

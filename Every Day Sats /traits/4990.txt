@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: optimism
+HEAD: Farmer hat
+EYES: none
+BODY: Farmer shirt

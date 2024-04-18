@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: euphoria
+HEAD: Bucket hat
+EYES: Professor
+BODY: Kimono

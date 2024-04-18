@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: hope
+HEAD: Toxedo hat
+EYES: Professor
+BODY: Toxedo

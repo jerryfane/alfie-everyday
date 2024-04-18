@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: optimism
+HEAD: Supreme hat
+EYES: none
+BODY: Black turtleneck

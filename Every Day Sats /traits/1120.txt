@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: anger
+HEAD: Gamer headset
+EYES: Aviator
+BODY: Gun holster

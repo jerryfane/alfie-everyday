@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: anger
+HEAD: Rise farmer hat
+EYES: Future
+BODY: Moncler Jacket

@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: euphoria
+HEAD: None
+EYES: Degen
+BODY: White t-shirt

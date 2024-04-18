@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: depression
+HEAD: McD cap
+EYES: Professor
+BODY: Black t-shirt

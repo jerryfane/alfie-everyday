@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: depression
+HEAD: Wizard hat
+EYES: Degen
+BODY: Prada suit

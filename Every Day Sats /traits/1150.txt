@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: euphoria
+HEAD: Wizard hat
+EYES: Aviator
+BODY: White pimp coat_

@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: optimism
+HEAD: McD cap
+EYES: Elvis
+BODY: Moncler Jacket

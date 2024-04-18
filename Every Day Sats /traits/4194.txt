@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: euphoria
+HEAD: McD cap
+EYES: Nuked
+BODY: Black Chef’s jacket

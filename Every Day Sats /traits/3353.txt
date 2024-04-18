@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: optimism
+HEAD: Wizard hat
+EYES: Bitcoin
+BODY: Stripe t-shirt

@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: euphoria
+HEAD: BDSM hat
+EYES: Bitcoin
+BODY: Black t-shirt

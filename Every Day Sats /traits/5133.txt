@@ -1,0 +1,5 @@
+TYPE: Pepe Girl
+EMOTIONS: optimism
+HEAD: Royal Crown
+EYES: None
+BODY: Pinc turtleneck

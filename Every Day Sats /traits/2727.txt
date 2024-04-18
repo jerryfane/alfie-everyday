@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: anger
+HEAD: Wizard hat
+EYES: none
+BODY: Tank top

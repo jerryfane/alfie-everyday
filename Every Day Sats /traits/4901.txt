@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: Mexican Hat
+EYES: Elvis
+BODY: Moncler Jacket

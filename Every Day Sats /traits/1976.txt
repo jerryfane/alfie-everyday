@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: euphoria
+HEAD: none
+EYES: None
+BODY: Space suit

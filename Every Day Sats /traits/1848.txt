@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: hope
+HEAD: Chef’s hat
+EYES: Lasereyes
+BODY: None

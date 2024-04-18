@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: depression
+HEAD: MAGA cap
+EYES: Elvis
+BODY: Moncler Jacket

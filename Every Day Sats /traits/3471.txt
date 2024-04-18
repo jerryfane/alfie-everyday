@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: anger
+HEAD: none
+EYES: None
+BODY: Green turtleneck

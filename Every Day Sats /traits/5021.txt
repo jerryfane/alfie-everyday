@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: hope
+HEAD: Bitcoin cap
+EYES: None
+BODY: Hawaiian shirt

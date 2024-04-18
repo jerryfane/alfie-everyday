@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: anger
+HEAD: BDSM hat
+EYES: Mog
+BODY: Iron Man

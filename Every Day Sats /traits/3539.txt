@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: anger
+HEAD: Purple cap
+EYES: Gaga
+BODY: Purple t-shirt

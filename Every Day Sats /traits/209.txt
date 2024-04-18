@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: euphoria
+HEAD: French Beret
+EYES: Mog
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Igor Bogdanoff
+EMOTIONS: optimism
+HEAD: Beanie cap
+EYES: None
+BODY: Iron Man

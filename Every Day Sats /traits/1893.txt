@@ -1,0 +1,5 @@
+TYPE: Clown
+EMOTIONS: hope
+HEAD: None
+EYES: Bitcoin
+BODY: None

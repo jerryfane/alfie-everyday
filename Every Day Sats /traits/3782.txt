@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: anger
+HEAD: Beanie cap
+EYES: Mog
+BODY: Iron Man

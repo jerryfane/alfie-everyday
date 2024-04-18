@@ -1,0 +1,5 @@
+TYPE: Office Guy
+EMOTIONS: none
+HEAD: Rug merchant hat
+EYES: None
+BODY: Rug merchant

@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: anger
+HEAD: none
+EYES: Apple Vision Pro
+BODY: Black Chef’s jacket

@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: McD cap
+EYES: Nuked
+BODY: Black turtleneck

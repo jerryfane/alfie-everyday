@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: depression
+HEAD: Wif hat
+EYES: Mog
+BODY: Prada suit

@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: depression
+HEAD: Gran Autismo cap
+EYES: None
+BODY: Matrix Trenchcoat

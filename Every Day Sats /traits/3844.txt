@@ -1,0 +1,5 @@
+TYPE: Machine
+EMOTIONS: none
+HEAD: McD cap
+EYES: Aviator
+BODY: Matrix Trenchcoat

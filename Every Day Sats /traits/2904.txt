@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: depression
+HEAD: McD cap
+EYES: None
+BODY: Hawaiian shirt

@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: hope
+HEAD: Beanie cap
+EYES: Degen
+BODY: None

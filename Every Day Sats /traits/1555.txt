@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: Wif hat
+EYES: Elvis
+BODY: Prison jumpsuit

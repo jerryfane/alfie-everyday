@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: anger
+HEAD: Vietnam helmet
+EYES: Deal with it
+BODY: Prada suit

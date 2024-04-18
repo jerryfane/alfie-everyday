@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: depression
+HEAD: Captain hat
+EYES: Professor
+BODY: Moncler Jacket

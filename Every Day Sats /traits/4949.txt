@@ -1,0 +1,5 @@
+TYPE: Stoned Fox
+EMOTIONS: none
+HEAD: Bucket hat
+EYES: Elvis
+BODY: Hawaiian shirt

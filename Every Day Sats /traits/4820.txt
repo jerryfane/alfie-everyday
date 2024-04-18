@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: optimism
+HEAD: Captain hat
+EYES: Elvis
+BODY: None

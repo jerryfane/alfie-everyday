@@ -1,0 +1,5 @@
+TYPE: KevinChang
+EMOTIONS: none
+HEAD: Cowboy hat
+EYES: Aviator
+BODY: Gary suit

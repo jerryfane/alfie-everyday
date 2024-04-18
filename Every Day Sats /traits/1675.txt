@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: anger
+HEAD: Mexican Hat
+EYES: Degen
+BODY: Kimono

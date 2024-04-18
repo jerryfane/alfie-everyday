@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: optimism
+HEAD: none
+EYES: Aviator
+BODY: Purple hoodie

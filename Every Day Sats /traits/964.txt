@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: depression
+HEAD: Wif hat
+EYES: none
+BODY: Tank top

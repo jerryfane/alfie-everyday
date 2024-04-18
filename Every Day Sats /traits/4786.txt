@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: Bucket hat
+EYES: Mog
+BODY: Hawaiian shirt

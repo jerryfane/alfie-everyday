@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: hope
+HEAD: McD cap
+EYES: None
+BODY: PepeGirl dress

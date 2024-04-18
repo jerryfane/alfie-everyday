@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: anger
+HEAD: Chef’s hat
+EYES: none
+BODY: Hawaiian shirt

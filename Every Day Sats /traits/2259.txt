@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: euphoria
+HEAD: none
+EYES: Mog
+BODY: Moncler Jacket

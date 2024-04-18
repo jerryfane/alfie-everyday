@@ -1,0 +1,5 @@
+TYPE: Yes Chad
+EMOTIONS: none
+HEAD: Vietnam helmet
+EYES: none
+BODY: None

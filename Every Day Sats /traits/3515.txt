@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: depression
+HEAD: None
+EYES: none
+BODY: none

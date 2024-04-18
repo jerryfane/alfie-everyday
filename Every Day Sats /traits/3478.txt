@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: euphoria
+HEAD: Vietnam helmet
+EYES: Mog
+BODY: Prison jumpsuit

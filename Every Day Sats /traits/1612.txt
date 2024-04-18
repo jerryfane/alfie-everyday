@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: euphoria
+HEAD: Tinfoil hat
+EYES: Lasereyes
+BODY: Stripe t-shirt

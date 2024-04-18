@@ -1,0 +1,5 @@
+TYPE: skeleton
+EMOTIONS: none
+HEAD: Toxedo hat
+EYES: Lasereyes
+BODY: Toxedo

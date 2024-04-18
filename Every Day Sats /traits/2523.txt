@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: anger
+HEAD: Supreme hat
+EYES: Degen
+BODY: Tank top

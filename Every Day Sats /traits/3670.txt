@@ -1,0 +1,5 @@
+TYPE: Ponzi Promoter
+EMOTIONS: hope
+HEAD: Captain hat
+EYES: Mog
+BODY: Lifebuoy

@@ -1,0 +1,5 @@
+TYPE: E Girl
+EMOTIONS: depression
+HEAD: None
+EYES: none
+BODY: none

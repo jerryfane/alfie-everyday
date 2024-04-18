@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: anger
+HEAD: Captain hat
+EYES: Nuked
+BODY: Moncler Jacket

@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: optimism
+HEAD: Mario cap
+EYES: None
+BODY: Moncler Jacket

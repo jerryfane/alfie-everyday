@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: anger
+HEAD: none
+EYES: Deal with it
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: optimism
+HEAD: None
+EYES: None
+BODY: Goth t-shirt

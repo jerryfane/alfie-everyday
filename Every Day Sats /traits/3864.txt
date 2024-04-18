@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: euphoria
+HEAD: Bucket hat
+EYES: Degen
+BODY: Blue turtleneck

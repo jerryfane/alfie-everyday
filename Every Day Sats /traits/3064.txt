@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: hope
+HEAD: BDSM hat
+EYES: Aviator
+BODY: Black turtleneck

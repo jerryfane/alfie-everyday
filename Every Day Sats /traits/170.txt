@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: hope
+HEAD: Beanie cap
+EYES: Future
+BODY: None

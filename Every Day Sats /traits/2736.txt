@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: depression
+HEAD: none
+EYES: none
+BODY: none

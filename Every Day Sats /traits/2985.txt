@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: hope
+HEAD: Mario cap
+EYES: None
+BODY: Cream turtleneck

@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: euphoria
+HEAD: North Korean hat
+EYES: Bitcoin
+BODY: Moncler Jacket

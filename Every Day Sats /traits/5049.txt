@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: anger
+HEAD: Beanie cap
+EYES: Aviator
+BODY: none

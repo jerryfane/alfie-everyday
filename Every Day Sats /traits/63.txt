@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: anger
+HEAD: Chef’s hat
+EYES: Degen
+BODY: Black turtleneck

@@ -1,0 +1,5 @@
+TYPE: Stoned Fox
+EMOTIONS: none
+HEAD: Royal Crown
+EYES: Elvis
+BODY: Moncler Jacket

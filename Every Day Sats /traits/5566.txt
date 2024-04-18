@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: depression
+HEAD: Vietnam helmet
+EYES: Black raybans
+BODY: Prada suit

@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: hope
+HEAD: Chef’s hat
+EYES: Mog
+BODY: Gun holster

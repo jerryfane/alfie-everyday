@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: anger
+HEAD: Gamer headset
+EYES: Professor
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: optimism
+HEAD: Cowboy hat
+EYES: Fisher
+BODY: Black turtleneck

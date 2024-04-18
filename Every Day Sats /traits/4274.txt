@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: euphoria
+HEAD: Mexican Hat
+EYES: Nuked
+BODY: none

@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: euphoria
+HEAD: Royal Crown
+EYES: Nuked
+BODY: White pimp coat_

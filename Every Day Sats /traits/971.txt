@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: euphoria
+HEAD: Heisenberg hat
+EYES: None
+BODY: Cyber vest

@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: depression
+HEAD: Red hat
+EYES: Professor
+BODY: Vitalik tee

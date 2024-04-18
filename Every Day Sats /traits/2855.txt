@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: optimism
+HEAD: None
+EYES: None
+BODY: Gary suit

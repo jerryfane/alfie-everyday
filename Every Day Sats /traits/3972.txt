@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: hope
+HEAD: none
+EYES: Apple Vision Pro
+BODY: Black t-shirt

@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: anger
+HEAD: Bitcoin cap
+EYES: Degen
+BODY: None

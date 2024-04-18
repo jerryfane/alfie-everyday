@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: euphoria
+HEAD: Wif hat
+EYES: Lasereyes
+BODY: Stripe t-shirt

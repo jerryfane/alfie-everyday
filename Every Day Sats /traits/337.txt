@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: optimism
+HEAD: Captain hat
+EYES: Mog
+BODY: Green blazer

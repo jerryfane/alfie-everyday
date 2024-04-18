@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: optimism
+HEAD: Chef’s hat
+EYES: none
+BODY: White Chef’s jacket

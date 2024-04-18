@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: depression
+HEAD: None
+EYES: Professor
+BODY: Nerd sweater

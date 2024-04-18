@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: depression
+HEAD: Mario cap
+EYES: Bitcoin
+BODY: Matrix Trenchcoat

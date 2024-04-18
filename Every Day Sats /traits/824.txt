@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: optimism
+HEAD: Vietnam helmet
+EYES: Black raybans
+BODY: Stripe t-shirt

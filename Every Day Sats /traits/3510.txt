@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: hope
+HEAD: Heisenberg hat
+EYES: Black raybans
+BODY: Gary suit

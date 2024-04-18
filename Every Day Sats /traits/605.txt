@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: anger
+HEAD: Cowboy hat
+EYES: Mog
+BODY: Brown jacket

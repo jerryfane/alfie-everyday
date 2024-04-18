@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: euphoria
+HEAD: Tinfoil hat
+EYES: none
+BODY: Prada suit

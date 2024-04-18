@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: anger
+HEAD: Chef’s hat
+EYES: Bitcoin
+BODY: Black turtleneck

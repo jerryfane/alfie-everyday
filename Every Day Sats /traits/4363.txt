@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: optimism
+HEAD: Cowboy hat
+EYES: Mog
+BODY: Orange pimp coat_

@@ -1,0 +1,5 @@
+TYPE: Pepe Girl
+EMOTIONS: optimism
+HEAD: Wizard hat
+EYES: none
+BODY: Goth t-shirt

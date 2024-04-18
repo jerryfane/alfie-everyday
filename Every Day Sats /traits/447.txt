@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: euphoria
+HEAD: Purple cap
+EYES: Bitcoin
+BODY: Matrix Trenchcoat

@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: optimism
+HEAD: Toxedo hat
+EYES: Black raybans
+BODY: Toxedo

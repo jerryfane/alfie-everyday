@@ -1,0 +1,5 @@
+TYPE: Captain Now
+EMOTIONS: none
+HEAD: McD cap
+EYES: None
+BODY: Hawaiian shirt

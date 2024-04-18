@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: anger
+HEAD: Mario cap
+EYES: Mog
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: depression
+HEAD: none
+EYES: Deal with it
+BODY: Purple hoodie

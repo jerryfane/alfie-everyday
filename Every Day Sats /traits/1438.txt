@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: anger
+HEAD: Captain hat
+EYES: Degen
+BODY: none

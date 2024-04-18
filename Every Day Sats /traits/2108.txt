@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: euphoria
+HEAD: Chef’s hat
+EYES: none
+BODY: Blue turtleneck

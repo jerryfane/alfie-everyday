@@ -1,0 +1,5 @@
+TYPE: Golden Bull
+EMOTIONS: depression
+HEAD: None
+EYES: Aviator
+BODY: Black turtleneck

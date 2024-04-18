@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: hope
+HEAD: Tinfoil hat
+EYES: Gaga
+BODY: White t-shirt

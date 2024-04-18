@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: hope
+HEAD: Farmer hat
+EYES: Bitcoin
+BODY: Farmer shirt

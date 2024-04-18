@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: anger
+HEAD: Mario cap
+EYES: Degen
+BODY: Matrix Trenchcoat

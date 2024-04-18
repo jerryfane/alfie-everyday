@@ -1,0 +1,5 @@
+TYPE: Smudge the Cat
+EMOTIONS: none
+HEAD: None
+EYES: Deal with it
+BODY: none

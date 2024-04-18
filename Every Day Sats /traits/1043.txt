@@ -1,0 +1,5 @@
+TYPE: PTSD Soldier
+EMOTIONS: none
+HEAD: Royal Crown
+EYES: None
+BODY: Vitalik tee

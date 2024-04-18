@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: McD cap
+EYES: Elvis
+BODY: Hawaiian shirt

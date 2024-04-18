@@ -1,0 +1,5 @@
+TYPE: Office Guy
+EMOTIONS: none
+HEAD: Wif hat
+EYES: none
+BODY: None

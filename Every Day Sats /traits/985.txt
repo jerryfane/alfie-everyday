@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: hope
+HEAD: MAGA cap
+EYES: None
+BODY: Hawaiian shirt

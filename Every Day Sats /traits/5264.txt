@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: optimism
+HEAD: Cowboy hat
+EYES: Bitcoin
+BODY: Black t-shirt

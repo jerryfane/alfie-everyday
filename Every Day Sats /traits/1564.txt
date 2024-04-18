@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: hope
+HEAD: BDSM hat
+EYES: Professor
+BODY: Matrix Trenchcoat

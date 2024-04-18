@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: hope
+HEAD: McD cap
+EYES: none
+BODY: Moncler Jacket

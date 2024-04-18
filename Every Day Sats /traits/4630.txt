@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: depression
+HEAD: Supreme hat
+EYES: Professor
+BODY: Tank top

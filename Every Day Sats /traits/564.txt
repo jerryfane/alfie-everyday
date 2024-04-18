@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: optimism
+HEAD: Cowboy hat
+EYES: Nuked
+BODY: Prada suit

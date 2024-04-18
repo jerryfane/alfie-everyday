@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: hope
+HEAD: Blue hat
+EYES: Mog
+BODY: Iron Man

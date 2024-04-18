@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: anger
+HEAD: Wizard hat
+EYES: None
+BODY: Purple t-shirt

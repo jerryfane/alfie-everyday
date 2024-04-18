@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: anger
+HEAD: Purple cap
+EYES: Degen
+BODY: Matrix Trenchcoat

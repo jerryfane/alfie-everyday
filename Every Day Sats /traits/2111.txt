@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: anger
+HEAD: Royal Crown
+EYES: none
+BODY: None

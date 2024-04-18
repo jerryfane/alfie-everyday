@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: euphoria
+HEAD: None
+EYES: Black raybans
+BODY: None

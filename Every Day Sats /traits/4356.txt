@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: euphoria
+HEAD: Royal Crown
+EYES: Degen
+BODY: Matrix Trenchcoat

@@ -1,0 +1,5 @@
+TYPE: Ponzi Promoter
+EMOTIONS: anger
+HEAD: Purple cap
+EYES: Mog
+BODY: Racing jacket

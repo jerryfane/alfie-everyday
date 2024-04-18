@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: optimism
+HEAD: McD cap
+EYES: Lasereyes
+BODY: Hawaiian shirt

@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: anger
+HEAD: none
+EYES: Nuked
+BODY: Matrix Trenchcoat

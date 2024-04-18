@@ -1,0 +1,5 @@
+TYPE: KevinChang
+EMOTIONS: none
+HEAD: Wizard hat
+EYES: Degen
+BODY: White pimp coat_

@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: hope
+HEAD: Heisenberg hat
+EYES: Mog
+BODY: Black t-shirt

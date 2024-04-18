@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: optimism
+HEAD: BDSM hat
+EYES: Professor
+BODY: Moncler Jacket

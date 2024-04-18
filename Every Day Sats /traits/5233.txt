@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: optimism
+HEAD: Bitcoin cap
+EYES: Degen
+BODY: Brown jacket

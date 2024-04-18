@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: euphoria
+HEAD: Mexican Hat
+EYES: Mog
+BODY: None

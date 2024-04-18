@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: hope
+HEAD: Bitcoin cap
+EYES: Mog
+BODY: Hawaiian shirt

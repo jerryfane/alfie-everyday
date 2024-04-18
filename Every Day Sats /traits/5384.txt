@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: optimism
+HEAD: Chef’s hat
+EYES: Black raybans
+BODY: Black Chef’s jacket

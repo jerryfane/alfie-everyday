@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: anger
+HEAD: McD cap
+EYES: Degen
+BODY: Hawaiian shirt

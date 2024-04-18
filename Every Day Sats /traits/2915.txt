@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: anger
+HEAD: McD cap
+EYES: Degen
+BODY: Pink pimp coat_

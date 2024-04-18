@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: hope
+HEAD: Wif hat
+EYES: Black raybans
+BODY: Vitalik tee

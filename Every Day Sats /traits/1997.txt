@@ -1,0 +1,5 @@
+TYPE: Dorian Nakamoto
+EMOTIONS: anger
+HEAD: North Korean hat
+EYES: Nakamoto glasses
+BODY: None

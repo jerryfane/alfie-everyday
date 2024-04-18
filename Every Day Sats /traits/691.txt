@@ -1,0 +1,5 @@
+TYPE: Stoned Fox
+EMOTIONS: none
+HEAD: Tinfoil hat
+EYES: Bitcoin
+BODY: Prison jumpsuit

@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: hope
+HEAD: Supreme hat
+EYES: Degen
+BODY: Prada suit

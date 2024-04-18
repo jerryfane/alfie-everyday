@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: Rise farmer hat
+EYES: Nouns
+BODY: Matrix Trenchcoat

@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: hope
+HEAD: Cowboy hat
+EYES: Degen
+BODY: Black turtleneck

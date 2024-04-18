@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: anger
+HEAD: Tinfoil hat
+EYES: Gaga
+BODY: White t-shirt

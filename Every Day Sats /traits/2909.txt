@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: depression
+HEAD: BDSM hat
+EYES: X
+BODY: Matrix Trenchcoat

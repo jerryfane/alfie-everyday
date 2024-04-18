@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: anger
+HEAD: Heisenberg hat
+EYES: Gaga
+BODY: Black t-shirt

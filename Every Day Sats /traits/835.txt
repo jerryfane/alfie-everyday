@@ -1,0 +1,5 @@
+TYPE: Igor Bogdanoff
+EMOTIONS: euphoria
+HEAD: Supreme hat
+EYES: none
+BODY: Racing jacket

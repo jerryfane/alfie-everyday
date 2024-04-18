@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: optimism
+HEAD: Mario cap
+EYES: none
+BODY: Green blazer

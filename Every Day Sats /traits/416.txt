@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: optimism
+HEAD: Heisenberg hat
+EYES: Mog
+BODY: Black turtleneck

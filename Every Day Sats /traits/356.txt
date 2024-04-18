@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: optimism
+HEAD: none
+EYES: Aviator
+BODY: Red hoodie

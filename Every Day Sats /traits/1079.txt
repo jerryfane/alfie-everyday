@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: euphoria
+HEAD: None
+EYES: none
+BODY: Orange pill suit

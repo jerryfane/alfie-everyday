@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: euphoria
+HEAD: Purple cap
+EYES: none
+BODY: Pinc turtleneck

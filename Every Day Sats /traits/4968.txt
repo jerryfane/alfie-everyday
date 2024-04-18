@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: depression
+HEAD: Cowboy hat
+EYES: None
+BODY: Black turtleneck

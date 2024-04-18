@@ -1,0 +1,5 @@
+TYPE: Captain Now
+EMOTIONS: none
+HEAD: Beanie cap
+EYES: Mog
+BODY: Gun holster

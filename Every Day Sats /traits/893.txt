@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: depression
+HEAD: Mexican Hat
+EYES: Mog
+BODY: Prison jumpsuit

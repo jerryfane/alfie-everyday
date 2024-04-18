@@ -1,0 +1,5 @@
+TYPE: Ponzi Promoter
+EMOTIONS: depression
+HEAD: Captain hat
+EYES: Mog
+BODY: None

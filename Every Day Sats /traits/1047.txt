@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: hope
+HEAD: McD cap
+EYES: X
+BODY: Black turtleneck

@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: euphoria
+HEAD: Gran Autismo cap
+EYES: Elvis
+BODY: Cream jacket

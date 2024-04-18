@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: depression
+HEAD: Beanie cap
+EYES: None
+BODY: Gary suit

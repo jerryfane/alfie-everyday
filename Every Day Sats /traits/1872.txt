@@ -1,0 +1,5 @@
+TYPE: Machine
+EMOTIONS: none
+HEAD: Red hat
+EYES: Degen
+BODY: Racing jacket

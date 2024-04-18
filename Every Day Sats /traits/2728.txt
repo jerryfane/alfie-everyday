@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: euphoria
+HEAD: Bucket hat
+EYES: Professor
+BODY: Iron Man

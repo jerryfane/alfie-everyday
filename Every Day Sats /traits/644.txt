@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: euphoria
+HEAD: Bucket hat
+EYES: Degen
+BODY: Gun holster

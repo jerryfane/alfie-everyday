@@ -1,0 +1,5 @@
+TYPE: Ginger nerd
+EMOTIONS: anger
+HEAD: none
+EYES: Elvis
+BODY: Red hoodie

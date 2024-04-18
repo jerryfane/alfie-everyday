@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: depression
+HEAD: Tinfoil hat
+EYES: None
+BODY: Nerd sweater

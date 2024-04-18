@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: hope
+HEAD: Chef’s hat
+EYES: None
+BODY: Black t-shirt

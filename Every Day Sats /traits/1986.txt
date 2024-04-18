@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: depression
+HEAD: Vietnam helmet
+EYES: Mog
+BODY: Prada suit

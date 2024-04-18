@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: optimism
+HEAD: North Korean hat
+EYES: Mog
+BODY: Hawaiian shirt

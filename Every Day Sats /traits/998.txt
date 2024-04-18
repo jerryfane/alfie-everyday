@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: depression
+HEAD: Cowboy hat
+EYES: None
+BODY: none

@@ -1,0 +1,5 @@
+TYPE: Captain Now
+EMOTIONS: none
+HEAD: none
+EYES: none
+BODY: Black hoodie

@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: hope
+HEAD: Heisenberg hat
+EYES: none
+BODY: Gary suit

@@ -1,0 +1,5 @@
+TYPE: Doomer Girl
+EMOTIONS: hope
+HEAD: Bucket hat
+EYES: Mog
+BODY: Hawaiian shirt

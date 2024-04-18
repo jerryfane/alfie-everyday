@@ -1,0 +1,5 @@
+TYPE: PTSD Soldier
+EMOTIONS: none
+HEAD: Chef’s hat
+EYES: none
+BODY: Tank top

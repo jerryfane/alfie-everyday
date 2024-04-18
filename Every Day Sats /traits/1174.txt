@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: depression
+HEAD: Red hat
+EYES: Nuked
+BODY: Gary suit

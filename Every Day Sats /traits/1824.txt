@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: depression
+HEAD: Gamer headset
+EYES: none
+BODY: Goth t-shirt

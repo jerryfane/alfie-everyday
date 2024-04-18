@@ -1,0 +1,5 @@
+TYPE: Office Guy
+EMOTIONS: none
+HEAD: FBI
+EYES: FBI
+BODY: FBI

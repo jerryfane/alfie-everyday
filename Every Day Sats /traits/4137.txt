@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: depression
+HEAD: French Beret
+EYES: Degen
+BODY: Brown jacket

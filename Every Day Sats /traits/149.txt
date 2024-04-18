@@ -1,0 +1,5 @@
+TYPE: Stoned Fox
+EMOTIONS: none
+HEAD: Rug merchant hat
+EYES: none
+BODY: Rug merchant

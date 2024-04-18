@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: depression
+HEAD: BDSM hat
+EYES: Professor
+BODY: Matrix Trenchcoat

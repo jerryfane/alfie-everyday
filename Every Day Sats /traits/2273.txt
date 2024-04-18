@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: euphoria
+HEAD: Bucket hat
+EYES: Mog
+BODY: Matrix Trenchcoat

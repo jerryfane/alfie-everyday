@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: depression
+HEAD: Purple cap
+EYES: None
+BODY: Prada suit

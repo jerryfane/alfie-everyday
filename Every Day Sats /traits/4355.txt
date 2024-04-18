@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: optimism
+HEAD: Supreme hat
+EYES: Black raybans
+BODY: Matrix Trenchcoat

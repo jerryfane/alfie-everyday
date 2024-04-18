@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: depression
+HEAD: McD cap
+EYES: Mog
+BODY: Prison jumpsuit

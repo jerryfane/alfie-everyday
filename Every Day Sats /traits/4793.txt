@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: anger
+HEAD: North Korean hat
+EYES: Bitcoin
+BODY: Matrix Trenchcoat

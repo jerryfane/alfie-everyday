@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: hope
+HEAD: Wizard hat
+EYES: Professor
+BODY: White t-shirt

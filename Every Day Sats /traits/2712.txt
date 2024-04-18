@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: optimism
+HEAD: Vietnam helmet
+EYES: Professor
+BODY: Pink pimp coat_

@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: euphoria
+HEAD: Toxedo hat
+EYES: none
+BODY: Toxedo

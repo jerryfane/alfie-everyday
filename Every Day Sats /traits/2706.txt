@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: euphoria
+HEAD: Blue hat
+EYES: Bitcoin
+BODY: Black t-shirt

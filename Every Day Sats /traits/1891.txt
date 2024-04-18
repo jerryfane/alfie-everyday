@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: anger
+HEAD: Blue hat
+EYES: none
+BODY: Prison jumpsuit

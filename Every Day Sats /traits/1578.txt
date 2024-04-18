@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: optimism
+HEAD: Royal Crown
+EYES: none
+BODY: Black t-shirt

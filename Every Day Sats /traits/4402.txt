@@ -1,0 +1,5 @@
+TYPE: skeleton
+EMOTIONS: none
+HEAD: Farmer hat
+EYES: Black raybans
+BODY: Farmer shirt

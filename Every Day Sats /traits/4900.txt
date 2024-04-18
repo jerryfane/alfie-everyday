@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: anger
+HEAD: BDSM hat
+EYES: none
+BODY: none

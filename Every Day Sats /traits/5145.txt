@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: hope
+HEAD: Supreme hat
+EYES: Professor
+BODY: Vitalik tee

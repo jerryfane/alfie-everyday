@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: euphoria
+HEAD: Captain hat
+EYES: Degen
+BODY: None

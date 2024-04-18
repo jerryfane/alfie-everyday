@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: hope
+HEAD: Captain hat
+EYES: none
+BODY: Cream jacket

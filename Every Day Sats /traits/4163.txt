@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: anger
+HEAD: Captain hat
+EYES: Nouns
+BODY: Moncler Jacket

@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: depression
+HEAD: Supreme hat
+EYES: none
+BODY: None

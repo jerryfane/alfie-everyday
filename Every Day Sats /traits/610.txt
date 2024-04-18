@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: depression
+HEAD: Gran Autismo cap
+EYES: Mog
+BODY: none

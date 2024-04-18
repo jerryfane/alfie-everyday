@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: anger
+HEAD: Captain hat
+EYES: Fisher
+BODY: Kimono

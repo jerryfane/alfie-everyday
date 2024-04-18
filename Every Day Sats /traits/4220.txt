@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: euphoria
+HEAD: None
+EYES: X
+BODY: Prada suit

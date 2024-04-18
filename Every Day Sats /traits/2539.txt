@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: anger
+HEAD: Red hat
+EYES: Professor
+BODY: White pimp coat_

@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: hope
+HEAD: Cowboy hat
+EYES: None
+BODY: Black t-shirt

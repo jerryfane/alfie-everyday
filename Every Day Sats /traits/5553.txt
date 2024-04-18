@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: optimism
+HEAD: Wif hat
+EYES: Future
+BODY: Pink pimp coat_

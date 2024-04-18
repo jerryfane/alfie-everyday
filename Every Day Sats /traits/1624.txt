@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: hope
+HEAD: Supreme hat
+EYES: Mog
+BODY: Purple t-shirt

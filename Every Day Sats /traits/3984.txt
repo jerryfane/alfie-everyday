@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: hope
+HEAD: Captain hat
+EYES: Aviator
+BODY: Brown jacket

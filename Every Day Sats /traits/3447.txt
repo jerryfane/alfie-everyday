@@ -1,0 +1,5 @@
+TYPE: Ponzi Presenter
+EMOTIONS: optimism
+HEAD: none
+EYES: Mog
+BODY: Matrix Trenchcoat

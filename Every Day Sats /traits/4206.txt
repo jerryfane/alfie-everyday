@@ -1,0 +1,5 @@
+TYPE: KevinChang
+EMOTIONS: none
+HEAD: Chef’s hat
+EYES: Mog
+BODY: Hawaiian shirt

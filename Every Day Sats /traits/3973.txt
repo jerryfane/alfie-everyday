@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: euphoria
+HEAD: Rise farmer hat
+EYES: none
+BODY: None

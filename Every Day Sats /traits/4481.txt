@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: Chef’s hat
+EYES: X
+BODY: Gun holster

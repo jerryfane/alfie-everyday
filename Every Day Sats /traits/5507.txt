@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: hope
+HEAD: Beanie cap
+EYES: Degen
+BODY: None

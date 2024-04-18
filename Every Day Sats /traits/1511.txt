@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: euphoria
+HEAD: Mario cap
+EYES: Nuked
+BODY: None

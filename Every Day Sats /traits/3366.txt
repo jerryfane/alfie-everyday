@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: anger
+HEAD: McD cap
+EYES: Gaga
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: depression
+HEAD: Wizard hat
+EYES: Degen
+BODY: Tank top

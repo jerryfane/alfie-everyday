@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: hope
+HEAD: Purple cap
+EYES: X
+BODY: none

@@ -1,0 +1,5 @@
+TYPE: Orange T-Rex
+EMOTIONS: none
+HEAD: None
+EYES: none
+BODY: Black hoodie

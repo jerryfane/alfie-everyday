@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: depression
+HEAD: Bucket hat
+EYES: Nuked
+BODY: Hawaiian shirt

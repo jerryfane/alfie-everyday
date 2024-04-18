@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: depression
+HEAD: Royal Crown
+EYES: Elvis
+BODY: Orange pimp coat_

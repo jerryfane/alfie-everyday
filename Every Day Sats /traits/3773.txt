@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: euphoria
+HEAD: Blue hat
+EYES: Degen
+BODY: Black turtleneck

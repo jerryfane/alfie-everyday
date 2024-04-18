@@ -1,0 +1,5 @@
+TYPE: Dorian Nakamoto
+EMOTIONS: euphoria
+HEAD: Heisenberg hat
+EYES: Professor
+BODY: None

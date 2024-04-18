@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: depression
+HEAD: Captain hat
+EYES: Aviator
+BODY: Black t-shirt

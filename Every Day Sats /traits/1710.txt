@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: euphoria
+HEAD: none
+EYES: none
+BODY: none

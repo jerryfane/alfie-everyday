@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: depression
+HEAD: Red hat
+EYES: Gaga
+BODY: Matrix Trenchcoat

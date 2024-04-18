@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: euphoria
+HEAD: Captain hat
+EYES: none
+BODY: Stripe t-shirt

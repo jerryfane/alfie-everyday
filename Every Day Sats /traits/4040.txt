@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: depression
+HEAD: Wizard hat
+EYES: Mog
+BODY: Orange pimp coat_

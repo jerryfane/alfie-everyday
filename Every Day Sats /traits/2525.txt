@@ -1,0 +1,5 @@
+TYPE: Gigachad
+EMOTIONS: anger
+HEAD: Cowboy hat
+EYES: none
+BODY: Gary suit

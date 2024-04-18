@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: depression
+HEAD: Supreme hat
+EYES: Nouns
+BODY: White pimp coat_

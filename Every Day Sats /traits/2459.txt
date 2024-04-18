@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: anger
+HEAD: BDSM hat
+EYES: Degen
+BODY: Black turtleneck

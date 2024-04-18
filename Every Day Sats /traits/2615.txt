@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: euphoria
+HEAD: McD cap
+EYES: none
+BODY: Iron Man

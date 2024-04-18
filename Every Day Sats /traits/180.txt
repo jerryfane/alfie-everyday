@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: optimism
+HEAD: MAGA cap
+EYES: Mog
+BODY: Black t-shirt

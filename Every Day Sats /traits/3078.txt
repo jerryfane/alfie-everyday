@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: anger
+HEAD: none
+EYES: Degen
+BODY: Brown jacket

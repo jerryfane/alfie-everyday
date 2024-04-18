@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: anger
+HEAD: Mexican Hat
+EYES: Professor
+BODY: Black t-shirt

@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: hope
+HEAD: Bucket hat
+EYES: Professor
+BODY: Prada suit

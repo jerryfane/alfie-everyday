@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: optimism
+HEAD: Red hat
+EYES: None
+BODY: Matrix Trenchcoat

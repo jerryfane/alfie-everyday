@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: euphoria
+HEAD: Gamer headset
+EYES: Lasereyes
+BODY: Hawaiian shirt

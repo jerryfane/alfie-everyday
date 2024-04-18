@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: euphoria
+HEAD: Cowboy hat
+EYES: Mog
+BODY: Pink pimp coat_

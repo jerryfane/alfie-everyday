@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: optimism
+HEAD: Rise farmer hat
+EYES: none
+BODY: Cream turtleneck

@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: depression
+HEAD: Bucket hat
+EYES: Professor
+BODY: Matrix Trenchcoat

@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: optimism
+HEAD: Chef’s hat
+EYES: Professor
+BODY: Prison jumpsuit

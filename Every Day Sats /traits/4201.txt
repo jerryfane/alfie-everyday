@@ -1,0 +1,5 @@
+TYPE: EtherRocks
+EMOTIONS: none
+HEAD: Bucket hat
+EYES: Nouns
+BODY: Gary suit

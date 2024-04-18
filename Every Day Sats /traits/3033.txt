@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: optimism
+HEAD: none
+EYES: Mog
+BODY: Matrix Trenchcoat

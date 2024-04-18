@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: optimism
+HEAD: Beanie cap
+EYES: Gaga
+BODY: None

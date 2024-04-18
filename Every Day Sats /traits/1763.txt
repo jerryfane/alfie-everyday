@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: euphoria
+HEAD: Red hat
+EYES: None
+BODY: Prison jumpsuit

@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: hope
+HEAD: Bucket hat
+EYES: Black raybans
+BODY: Black turtleneck

@@ -1,0 +1,5 @@
+TYPE: E Girl
+EMOTIONS: anger
+HEAD: Chef’s hat
+EYES: Mog
+BODY: Kimono

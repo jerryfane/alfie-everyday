@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: anger
+HEAD: Toxedo hat
+EYES: none
+BODY: Toxedo

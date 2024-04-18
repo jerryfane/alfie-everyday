@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: euphoria
+HEAD: Bucket hat
+EYES: Professor
+BODY: Hawaiian shirt

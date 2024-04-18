@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: Rug merchant hat
+EYES: Professor
+BODY: Rug merchant

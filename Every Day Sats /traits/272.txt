@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: hope
+HEAD: Cowboy hat
+EYES: Aviator
+BODY: None

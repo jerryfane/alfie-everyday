@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: anger
+HEAD: French Beret
+EYES: Degen
+BODY: Gary suit

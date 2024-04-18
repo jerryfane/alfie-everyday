@@ -1,0 +1,5 @@
+TYPE: Gigachad
+EMOTIONS: euphoria
+HEAD: Farmer hat
+EYES: Mog
+BODY: Farmer shirt

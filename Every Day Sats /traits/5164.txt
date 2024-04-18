@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: euphoria
+HEAD: None
+EYES: none
+BODY: Black t-shirt

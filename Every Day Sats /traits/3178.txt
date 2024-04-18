@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: hope
+HEAD: Bitcoin cap
+EYES: Mog
+BODY: Matrix Trenchcoat

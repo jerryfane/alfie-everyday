@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: euphoria
+HEAD: Mario cap
+EYES: Nouns
+BODY: Black t-shirt

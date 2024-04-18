@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: anger
+HEAD: North Korean hat
+EYES: none
+BODY: Black t-shirt

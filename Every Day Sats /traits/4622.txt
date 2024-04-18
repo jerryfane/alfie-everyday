@@ -1,0 +1,5 @@
+TYPE: Machine
+EMOTIONS: none
+HEAD: Captain hat
+EYES: None
+BODY: Black jacket

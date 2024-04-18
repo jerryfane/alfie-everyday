@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: optimism
+HEAD: North Korean hat
+EYES: None
+BODY: Matrix Trenchcoat

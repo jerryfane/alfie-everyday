@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: anger
+HEAD: Bucket hat
+EYES: Professor
+BODY: Moncler Jacket

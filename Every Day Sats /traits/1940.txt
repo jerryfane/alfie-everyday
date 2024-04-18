@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: hope
+HEAD: Bitcoin cap
+EYES: Fisher
+BODY: Hawaiian shirt

@@ -1,0 +1,5 @@
+TYPE: Doomer Girl
+EMOTIONS: optimism
+HEAD: Bucket hat
+EYES: None
+BODY: Black turtleneck

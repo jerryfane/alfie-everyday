@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: optimism
+HEAD: French Beret
+EYES: Future
+BODY: None

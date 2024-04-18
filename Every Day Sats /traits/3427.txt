@@ -1,0 +1,5 @@
+TYPE: Clown
+EMOTIONS: depression
+HEAD: McD cap
+EYES: none
+BODY: Matrix Trenchcoat

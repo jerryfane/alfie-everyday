@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: anger
+HEAD: French Beret
+EYES: none
+BODY: Gary suit

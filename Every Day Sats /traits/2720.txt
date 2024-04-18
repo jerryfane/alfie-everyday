@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: optimism
+HEAD: Purple cap
+EYES: Gaga
+BODY: Tank top

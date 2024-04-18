@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: anger
+HEAD: McD cap
+EYES: None
+BODY: Pink pimp coat_

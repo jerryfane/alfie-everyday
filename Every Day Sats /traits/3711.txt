@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: optimism
+HEAD: Toxedo hat
+EYES: Degen
+BODY: Toxedo

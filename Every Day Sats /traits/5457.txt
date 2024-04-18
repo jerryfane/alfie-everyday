@@ -1,0 +1,5 @@
+TYPE: PTSD Soldier
+EMOTIONS: none
+HEAD: Toxedo hat
+EYES: none
+BODY: Toxedo

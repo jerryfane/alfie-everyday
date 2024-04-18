@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: depression
+HEAD: Vietnam helmet
+EYES: Mog
+BODY: Prada suit

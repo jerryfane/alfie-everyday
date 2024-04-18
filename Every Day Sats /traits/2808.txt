@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: optimism
+HEAD: Mario cap
+EYES: Degen
+BODY: Matrix Trenchcoat

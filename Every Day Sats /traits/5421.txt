@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: euphoria
+HEAD: None
+EYES: None
+BODY: Prison jumpsuit

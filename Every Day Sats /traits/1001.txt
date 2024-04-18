@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: anger
+HEAD: Bucket hat
+EYES: None
+BODY: Hawaiian shirt

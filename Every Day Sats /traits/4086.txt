@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: euphoria
+HEAD: French Beret
+EYES: none
+BODY: None

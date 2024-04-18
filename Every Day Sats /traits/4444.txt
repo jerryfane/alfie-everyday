@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: anger
+HEAD: none
+EYES: Professor
+BODY: Purple hoodie

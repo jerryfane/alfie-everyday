@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: hope
+HEAD: Captain hat
+EYES: X
+BODY: Moncler Jacket

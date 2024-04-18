@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: euphoria
+HEAD: Wizard hat
+EYES: Mog
+BODY: Purple t-shirt

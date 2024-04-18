@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: euphoria
+HEAD: Cowboy hat
+EYES: Black raybans
+BODY: Goth t-shirt

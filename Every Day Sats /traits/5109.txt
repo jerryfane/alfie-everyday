@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: hope
+HEAD: Red hat
+EYES: Professor
+BODY: Gary suit

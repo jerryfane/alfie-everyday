@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: optimism
+HEAD: Bucket hat
+EYES: Professor
+BODY: Matrix Trenchcoat

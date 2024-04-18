@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: optimism
+HEAD: MAGA cap
+EYES: none
+BODY: Gary suit

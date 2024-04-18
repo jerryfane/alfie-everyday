@@ -1,0 +1,5 @@
+TYPE: PTSD Dog
+EMOTIONS: none
+HEAD: Bitcoin cap
+EYES: none
+BODY: none

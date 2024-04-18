@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: euphoria
+HEAD: Bucket hat
+EYES: Aviator
+BODY: Cream jacket

@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: anger
+HEAD: Purple cap
+EYES: Bitcoin
+BODY: Prada suit

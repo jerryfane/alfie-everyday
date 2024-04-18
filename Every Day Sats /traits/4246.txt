@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: euphoria
+HEAD: Royal Crown
+EYES: Bitcoin
+BODY: Orange pimp coat_

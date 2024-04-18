@@ -1,0 +1,5 @@
+TYPE: Ponzi Promoter
+EMOTIONS: anger
+HEAD: None
+EYES: Oculus
+BODY: Black jacket

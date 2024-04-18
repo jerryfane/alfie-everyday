@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: optimism
+HEAD: Wif hat
+EYES: None
+BODY: Prison jumpsuit

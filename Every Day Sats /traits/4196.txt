@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: hope
+HEAD: McD cap
+EYES: Mog
+BODY: Prada suit

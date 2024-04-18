@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: anger
+HEAD: Cowboy hat
+EYES: Black raybans
+BODY: Gary suit

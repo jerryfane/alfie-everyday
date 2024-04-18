@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: hope
+HEAD: BDSM hat
+EYES: none
+BODY: Black turtleneck

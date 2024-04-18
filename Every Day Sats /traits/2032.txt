@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: hope
+HEAD: Vietnam helmet
+EYES: Mog
+BODY: Moncler Jacket

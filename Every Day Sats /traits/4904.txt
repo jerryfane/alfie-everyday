@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: anger
+HEAD: Supreme hat
+EYES: none
+BODY: Prison jumpsuit

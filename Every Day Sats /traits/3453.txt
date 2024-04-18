@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: anger
+HEAD: Red hat
+EYES: Bitcoin
+BODY: Moncler Jacket

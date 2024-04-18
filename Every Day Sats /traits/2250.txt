@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: optimism
+HEAD: Wif hat
+EYES: none
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Machine
+EMOTIONS: none
+HEAD: MAGA cap
+EYES: None
+BODY: Hawaiian shirt

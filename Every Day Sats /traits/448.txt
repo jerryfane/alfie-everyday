@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: depression
+HEAD: Chef’s hat
+EYES: None
+BODY: none

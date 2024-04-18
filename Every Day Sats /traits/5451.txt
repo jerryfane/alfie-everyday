@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: euphoria
+HEAD: Wif hat
+EYES: Future
+BODY: Prada suit

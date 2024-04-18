@@ -1,0 +1,5 @@
+TYPE: Captain Now
+EMOTIONS: none
+HEAD: Bucket hat
+EYES: Nuked
+BODY: Matrix Trenchcoat

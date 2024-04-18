@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: hope
+HEAD: Captain hat
+EYES: Professor
+BODY: Pinc turtleneck

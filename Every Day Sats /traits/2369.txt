@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: euphoria
+HEAD: Gamer headset
+EYES: Mog
+BODY: Black Chef’s jacket

@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: optimism
+HEAD: MAGA cap
+EYES: Bitcoin
+BODY: Gun holster

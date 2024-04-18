@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: optimism
+HEAD: Red hat
+EYES: Deal with it
+BODY: Prada suit

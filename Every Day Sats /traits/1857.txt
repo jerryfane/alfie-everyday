@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: optimism
+HEAD: Blue hat
+EYES: None
+BODY: None

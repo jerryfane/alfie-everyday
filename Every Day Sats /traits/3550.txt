@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: anger
+HEAD: Red hat
+EYES: Professor
+BODY: Gun holster

@@ -1,0 +1,5 @@
+TYPE: E Girl
+EMOTIONS: optimism
+HEAD: Toxedo hat
+EYES: none
+BODY: Toxedo

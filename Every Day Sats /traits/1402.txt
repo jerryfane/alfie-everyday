@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: anger
+HEAD: None
+EYES: None
+BODY: Hawaiian shirt

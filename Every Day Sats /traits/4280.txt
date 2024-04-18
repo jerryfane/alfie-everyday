@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: optimism
+HEAD: Bucket hat
+EYES: Degen
+BODY: Goth t-shirt

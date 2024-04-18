@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: anger
+HEAD: Captain hat
+EYES: Black raybans
+BODY: None

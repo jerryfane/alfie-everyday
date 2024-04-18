@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: euphoria
+HEAD: Mario cap
+EYES: Degen
+BODY: Matrix Trenchcoat

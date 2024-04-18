@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: optimism
+HEAD: Captain hat
+EYES: Nouns
+BODY: Nerd sweater

@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: anger
+HEAD: none
+EYES: Degen
+BODY: Purple hoodie

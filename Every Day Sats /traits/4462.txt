@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: anger
+HEAD: Tinfoil hat
+EYES: none
+BODY: Prison jumpsuit

@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: anger
+HEAD: Wif hat
+EYES: none
+BODY: Stripe t-shirt

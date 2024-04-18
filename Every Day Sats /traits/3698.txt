@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: euphoria
+HEAD: Mario cap
+EYES: none
+BODY: Matrix Trenchcoat

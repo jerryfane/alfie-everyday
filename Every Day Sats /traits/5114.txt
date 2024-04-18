@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: hope
+HEAD: Royal Crown
+EYES: none
+BODY: Racing jacket

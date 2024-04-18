@@ -1,0 +1,5 @@
+TYPE: Gigachad
+EMOTIONS: anger
+HEAD: Beanie cap
+EYES: None
+BODY: None

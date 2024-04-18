@@ -1,0 +1,5 @@
+TYPE: Dog wif hat
+EMOTIONS: none
+HEAD: Wif hat
+EYES: Degen
+BODY: none

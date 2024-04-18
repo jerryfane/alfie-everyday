@@ -1,0 +1,5 @@
+TYPE: E Girl
+EMOTIONS: anger
+HEAD: Wif hat
+EYES: none
+BODY: Racing jacket

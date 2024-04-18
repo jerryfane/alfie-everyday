@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: hope
+HEAD: Mario cap
+EYES: Black raybans
+BODY: Matrix Trenchcoat

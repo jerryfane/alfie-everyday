@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: hope
+HEAD: Royal Crown
+EYES: Mog
+BODY: White pimp coat_

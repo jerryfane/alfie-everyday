@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: anger
+HEAD: Gamer headset
+EYES: Professor
+BODY: Pinc turtleneck

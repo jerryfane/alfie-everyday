@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: optimism
+HEAD: MAGA cap
+EYES: None
+BODY: Nerd sweater

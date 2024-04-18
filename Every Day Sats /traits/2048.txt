@@ -1,0 +1,5 @@
+TYPE: Ponzi Presenter
+EMOTIONS: optimism
+HEAD: none
+EYES: Bitcoin
+BODY: Red hoodie

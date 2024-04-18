@@ -1,0 +1,5 @@
+TYPE: Orange T-Rex
+EMOTIONS: none
+HEAD: none
+EYES: none
+BODY: Pizza jumpsuit

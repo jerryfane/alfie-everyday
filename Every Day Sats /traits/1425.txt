@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: anger
+HEAD: Farmer hat
+EYES: Deal with it
+BODY: Farmer shirt

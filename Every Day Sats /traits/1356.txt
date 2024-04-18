@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: anger
+HEAD: Captain hat
+EYES: Nuked
+BODY: Matrix Trenchcoat

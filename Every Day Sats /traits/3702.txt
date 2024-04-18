@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: euphoria
+HEAD: Chef’s hat
+EYES: Mog
+BODY: None

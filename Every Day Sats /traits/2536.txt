@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: optimism
+HEAD: none
+EYES: Apple Vision Pro
+BODY: Black t-shirt

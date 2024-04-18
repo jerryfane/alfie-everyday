@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: none
+EYES: Lasereyes
+BODY: Black t-shirt

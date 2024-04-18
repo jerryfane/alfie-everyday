@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: optimism
+HEAD: Bucket hat
+EYES: Bitcoin
+BODY: None

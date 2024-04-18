@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: optimism
+HEAD: North Korean hat
+EYES: Professor
+BODY: Black t-shirt

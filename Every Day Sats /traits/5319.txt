@@ -1,0 +1,5 @@
+TYPE: Clown
+EMOTIONS: optimism
+HEAD: McD cap
+EYES: none
+BODY: Gun holster

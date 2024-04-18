@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: anger
+HEAD: Rise farmer hat
+EYES: Professor
+BODY: Goth t-shirt

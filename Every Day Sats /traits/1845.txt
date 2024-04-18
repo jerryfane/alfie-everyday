@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: anger
+HEAD: Wizard hat
+EYES: Bitcoin
+BODY: Vitalik tee

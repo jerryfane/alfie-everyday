@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: anger
+HEAD: Captain hat
+EYES: none
+BODY: Brown jacket

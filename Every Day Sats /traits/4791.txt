@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: euphoria
+HEAD: Gamer headset
+EYES: X
+BODY: Cream jacket

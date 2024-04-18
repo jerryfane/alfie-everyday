@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: optimism
+HEAD: Bucket hat
+EYES: Mog
+BODY: Hawaiian shirt

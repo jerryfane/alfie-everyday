@@ -1,0 +1,5 @@
+TYPE: Dorian Nakamoto
+EMOTIONS: hope
+HEAD: Rug merchant hat
+EYES: Nakamoto glasses
+BODY: Rug merchant

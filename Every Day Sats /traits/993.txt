@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: optimism
+HEAD: Gamer headset
+EYES: None
+BODY: Hawaiian shirt

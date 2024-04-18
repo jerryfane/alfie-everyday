@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: hope
+HEAD: Supreme hat
+EYES: none
+BODY: White t-shirt

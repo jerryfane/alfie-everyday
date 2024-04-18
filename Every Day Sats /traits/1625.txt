@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: anger
+HEAD: MAGA cap
+EYES: Future
+BODY: Gary suit

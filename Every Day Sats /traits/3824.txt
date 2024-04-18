@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: depression
+HEAD: Blue hat
+EYES: Degen
+BODY: Black t-shirt

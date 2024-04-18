@@ -1,0 +1,5 @@
+TYPE: Doomer Girl
+EMOTIONS: anger
+HEAD: Bucket hat
+EYES: Degen
+BODY: Black turtleneck

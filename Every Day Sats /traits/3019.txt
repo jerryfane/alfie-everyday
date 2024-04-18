@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: euphoria
+HEAD: none
+EYES: Apple Vision Pro
+BODY: White t-shirt

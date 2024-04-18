@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: euphoria
+HEAD: Supreme hat
+EYES: none
+BODY: Racing jacket

@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: euphoria
+HEAD: Chef’s hat
+EYES: X
+BODY: Hawaiian shirt

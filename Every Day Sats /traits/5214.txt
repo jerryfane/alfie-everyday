@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: depression
+HEAD: Captain hat
+EYES: Degen
+BODY: Black turtleneck

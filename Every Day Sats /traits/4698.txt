@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: anger
+HEAD: Beanie cap
+EYES: None
+BODY: Goth t-shirt

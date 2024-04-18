@@ -1,0 +1,5 @@
+TYPE: Dorian Nakamoto
+EMOTIONS: optimism
+HEAD: Beanie cap
+EYES: Nakamoto glasses
+BODY: Hawaiian shirt

@@ -1,0 +1,5 @@
+TYPE: Clown
+EMOTIONS: euphoria
+HEAD: McD cap
+EYES: Mog
+BODY: Black jacket

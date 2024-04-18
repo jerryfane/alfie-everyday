@@ -1,0 +1,5 @@
+TYPE: KevinChang
+EMOTIONS: none
+HEAD: Vietnam helmet
+EYES: Evil
+BODY: Vitalik tee

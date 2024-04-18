@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: anger
+HEAD: None
+EYES: Mog
+BODY: Matrix Trenchcoat

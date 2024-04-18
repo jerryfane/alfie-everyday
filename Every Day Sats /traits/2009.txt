@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: hope
+HEAD: none
+EYES: Mog
+BODY: Space suit

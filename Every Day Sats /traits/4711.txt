@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: anger
+HEAD: Cowboy hat
+EYES: Bitcoin
+BODY: Gary suit

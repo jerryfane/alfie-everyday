@@ -1,0 +1,5 @@
+TYPE: Ponzi Presenter
+EMOTIONS: anger
+HEAD: none
+EYES: Mog
+BODY: Kimono

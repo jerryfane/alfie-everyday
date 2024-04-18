@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: euphoria
+HEAD: Purple cap
+EYES: Gaga
+BODY: Matrix Trenchcoat

@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: euphoria
+HEAD: North Korean hat
+EYES: Nuked
+BODY: None

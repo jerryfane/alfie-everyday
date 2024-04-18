@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: euphoria
+HEAD: Purple cap
+EYES: none
+BODY: Pink pimp coat_

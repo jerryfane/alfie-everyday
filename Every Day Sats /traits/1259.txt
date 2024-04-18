@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: euphoria
+HEAD: Cowboy hat
+EYES: Lasereyes
+BODY: None

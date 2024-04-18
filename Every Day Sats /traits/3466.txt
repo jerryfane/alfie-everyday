@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: depression
+HEAD: Mario cap
+EYES: Fisher
+BODY: None

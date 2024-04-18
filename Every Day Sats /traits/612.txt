@@ -1,0 +1,5 @@
+TYPE: Igor Bogdanoff
+EMOTIONS: euphoria
+HEAD: Vietnam helmet
+EYES: none
+BODY: Prison jumpsuit

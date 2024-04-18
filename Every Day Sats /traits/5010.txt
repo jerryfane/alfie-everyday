@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: euphoria
+HEAD: Bitcoin cap
+EYES: None
+BODY: None

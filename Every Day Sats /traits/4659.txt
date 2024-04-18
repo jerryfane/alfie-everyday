@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: anger
+HEAD: Wif hat
+EYES: None
+BODY: White pimp coat_

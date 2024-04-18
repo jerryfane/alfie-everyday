@@ -1,0 +1,5 @@
+TYPE: Bitcoin Bull
+EMOTIONS: optimism
+HEAD: Purple cap
+EYES: None
+BODY: Tank top

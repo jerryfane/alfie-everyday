@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: depression
+HEAD: Rise farmer hat
+EYES: Professor
+BODY: None

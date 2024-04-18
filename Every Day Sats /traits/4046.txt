@@ -1,0 +1,5 @@
+TYPE: skeleton
+EMOTIONS: none
+HEAD: Red hat
+EYES: none
+BODY: Black turtleneck

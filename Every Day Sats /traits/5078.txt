@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: hope
+HEAD: Wif hat
+EYES: none
+BODY: Vitalik tee

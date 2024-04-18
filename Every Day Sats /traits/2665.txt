@@ -1,0 +1,5 @@
+TYPE: Dorian Nakamoto
+EMOTIONS: optimism
+HEAD: none
+EYES: none
+BODY: none

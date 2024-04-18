@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: euphoria
+HEAD: Mario cap
+EYES: Lasereyes
+BODY: Matrix Trenchcoat

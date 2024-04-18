@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: anger
+HEAD: Red hat
+EYES: Future
+BODY: Matrix Trenchcoat

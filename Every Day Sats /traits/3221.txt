@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: optimism
+HEAD: None
+EYES: X
+BODY: Matrix Trenchcoat

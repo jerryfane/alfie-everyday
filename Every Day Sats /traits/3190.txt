@@ -1,0 +1,5 @@
+TYPE: Black Swan Pepe
+EMOTIONS: none
+HEAD: Rug merchant hat
+EYES: none
+BODY: Rug merchant

@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: euphoria
+HEAD: McD cap
+EYES: Nuked
+BODY: none

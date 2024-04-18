@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: hope
+HEAD: none
+EYES: Black raybans
+BODY: Purple hoodie

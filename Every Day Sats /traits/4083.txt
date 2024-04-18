@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: hope
+HEAD: North Korean hat
+EYES: Degen
+BODY: Matrix Trenchcoat

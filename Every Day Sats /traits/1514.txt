@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: euphoria
+HEAD: Captain hat
+EYES: None
+BODY: Kimono

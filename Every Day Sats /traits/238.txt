@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: euphoria
+HEAD: Royal Crown
+EYES: Elvis
+BODY: Orange pimp coat_

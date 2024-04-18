@@ -1,0 +1,5 @@
+TYPE: Persian Cat
+EMOTIONS: none
+HEAD: MAGA cap
+EYES: Black raybans
+BODY: Matrix Trenchcoat

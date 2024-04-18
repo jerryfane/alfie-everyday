@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: depression
+HEAD: Supreme hat
+EYES: Degen
+BODY: Prada suit

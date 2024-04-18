@@ -1,0 +1,5 @@
+TYPE: Padme
+EMOTIONS: euphoria
+HEAD: none
+EYES: Gaga
+BODY: Matrix Trenchcoat

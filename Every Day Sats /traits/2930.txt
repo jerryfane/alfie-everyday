@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: hope
+HEAD: McD cap
+EYES: Gaga
+BODY: Gary suit

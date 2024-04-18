@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: anger
+HEAD: McD cap
+EYES: Professor
+BODY: none

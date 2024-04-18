@@ -1,0 +1,5 @@
+TYPE: Ponzi Presenter
+EMOTIONS: depression
+HEAD: Beanie cap
+EYES: None
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: euphoria
+HEAD: none
+EYES: Apple Vision Pro
+BODY: Black t-shirt

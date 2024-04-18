@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: hope
+HEAD: Royal Crown
+EYES: Mog
+BODY: Trad dress

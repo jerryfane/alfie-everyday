@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: none
+EYES: Degen
+BODY: Brown jacket

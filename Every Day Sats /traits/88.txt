@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: hope
+HEAD: Heisenberg hat
+EYES: none
+BODY: Goth t-shirt

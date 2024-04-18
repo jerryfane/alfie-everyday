@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: euphoria
+HEAD: Mario cap
+EYES: Fisher
+BODY: Prada suit

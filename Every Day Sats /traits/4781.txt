@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: optimism
+HEAD: Beanie cap
+EYES: None
+BODY: Iron Man

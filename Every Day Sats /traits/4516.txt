@@ -1,0 +1,5 @@
+TYPE: Clown
+EMOTIONS: hope
+HEAD: Mario cap
+EYES: none
+BODY: Lifebuoy

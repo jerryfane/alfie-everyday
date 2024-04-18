@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: hope
+HEAD: Bucket hat
+EYES: None
+BODY: Black jacket

@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: anger
+HEAD: none
+EYES: Black raybans
+BODY: Cream turtleneck

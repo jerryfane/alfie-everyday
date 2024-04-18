@@ -1,0 +1,5 @@
+TYPE: Bitcoin Bull
+EMOTIONS: anger
+HEAD: none
+EYES: Future
+BODY: Hawaiian shirt

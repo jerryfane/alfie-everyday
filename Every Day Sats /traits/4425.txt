@@ -1,0 +1,5 @@
+TYPE: Doomer Girl
+EMOTIONS: hope
+HEAD: None
+EYES: Mog
+BODY: Matrix Trenchcoat

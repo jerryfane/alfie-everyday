@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: euphoria
+HEAD: Bitcoin cap
+EYES: Lasereyes
+BODY: Black t-shirt

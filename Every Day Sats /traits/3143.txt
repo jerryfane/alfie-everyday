@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: anger
+HEAD: None
+EYES: Professor
+BODY: Matrix Trenchcoat

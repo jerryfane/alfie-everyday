@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: depression
+HEAD: Cowboy hat
+EYES: Mog
+BODY: Orange pimp coat_

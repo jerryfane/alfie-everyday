@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: anger
+HEAD: Mario cap
+EYES: Gaga
+BODY: None

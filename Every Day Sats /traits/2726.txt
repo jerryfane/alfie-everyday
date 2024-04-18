@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: anger
+HEAD: Mario cap
+EYES: none
+BODY: Orange pimp coat_

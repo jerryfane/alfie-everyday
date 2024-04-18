@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: depression
+HEAD: Vietnam helmet
+EYES: Degen
+BODY: Racing jacket

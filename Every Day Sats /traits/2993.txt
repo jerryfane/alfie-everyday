@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: depression
+HEAD: McD cap
+EYES: none
+BODY: Matrix Trenchcoat

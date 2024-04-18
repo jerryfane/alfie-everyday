@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: euphoria
+HEAD: French Beret
+EYES: None
+BODY: none

@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: optimism
+HEAD: Captain hat
+EYES: Aviator
+BODY: none

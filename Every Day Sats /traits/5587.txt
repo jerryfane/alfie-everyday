@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: depression
+HEAD: Bitcoin cap
+EYES: Mog
+BODY: Iron Man

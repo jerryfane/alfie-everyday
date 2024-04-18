@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: depression
+HEAD: Purple cap
+EYES: None
+BODY: Purple t-shirt

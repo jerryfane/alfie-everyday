@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: hope
+HEAD: Red hat
+EYES: Mog
+BODY: Vitalik tee

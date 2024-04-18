@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: optimism
+HEAD: none
+EYES: Mog
+BODY: Lifebuoy

@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: depression
+HEAD: Gamer headset
+EYES: Black raybans
+BODY: Gary suit

@@ -1,0 +1,5 @@
+TYPE: Gigachad
+EMOTIONS: hope
+HEAD: Cowboy hat
+EYES: Lasereyes
+BODY: None

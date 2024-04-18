@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: hope
+HEAD: Chef’s hat
+EYES: none
+BODY: Cream turtleneck

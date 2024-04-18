@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: anger
+HEAD: Bucket hat
+EYES: Professor
+BODY: Matrix Trenchcoat

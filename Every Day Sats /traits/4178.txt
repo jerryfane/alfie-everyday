@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: optimism
+HEAD: Cowboy hat
+EYES: Elvis
+BODY: Hawaiian shirt

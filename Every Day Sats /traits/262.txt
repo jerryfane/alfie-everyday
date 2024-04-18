@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: depression
+HEAD: none
+EYES: Degen
+BODY: Brown jacket

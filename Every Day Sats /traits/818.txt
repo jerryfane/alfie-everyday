@@ -1,0 +1,5 @@
+TYPE: Doomer Girl
+EMOTIONS: depression
+HEAD: Farmer hat
+EYES: none
+BODY: Farmer shirt

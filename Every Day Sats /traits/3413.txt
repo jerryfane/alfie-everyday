@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: optimism
+HEAD: Bucket hat
+EYES: Professor
+BODY: Matrix Trenchcoat

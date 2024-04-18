@@ -1,0 +1,5 @@
+TYPE: Captain Now
+EMOTIONS: none
+HEAD: Wif hat
+EYES: Mog
+BODY: Orange pimp coat_

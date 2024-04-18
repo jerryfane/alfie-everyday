@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: optimism
+HEAD: Mexican Hat
+EYES: Gaga
+BODY: Pink pimp coat_

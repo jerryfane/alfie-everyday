@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: anger
+HEAD: Wizard hat
+EYES: None
+BODY: Stripe t-shirt

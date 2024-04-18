@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: depression
+HEAD: Red hat
+EYES: Degen
+BODY: Racing jacket

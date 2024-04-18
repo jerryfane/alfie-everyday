@@ -1,0 +1,5 @@
+TYPE: Dorian Nakamoto
+EMOTIONS: optimism
+HEAD: French Beret
+EYES: Professor
+BODY: Matrix Trenchcoat

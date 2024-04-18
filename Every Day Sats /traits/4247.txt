@@ -1,0 +1,5 @@
+TYPE: Doomer Girl
+EMOTIONS: anger
+HEAD: none
+EYES: Elvis
+BODY: Red hoodie

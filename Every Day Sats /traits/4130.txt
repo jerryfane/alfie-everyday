@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: optimism
+HEAD: Vietnam helmet
+EYES: Gaga
+BODY: White t-shirt

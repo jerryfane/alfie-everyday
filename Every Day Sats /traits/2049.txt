@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: optimism
+HEAD: none
+EYES: Bitcoin
+BODY: Red hoodie

@@ -1,0 +1,5 @@
+TYPE: North Korean Hacker
+EMOTIONS: none
+HEAD: Chef’s hat
+EYES: Elvis
+BODY: Black Chef’s jacket

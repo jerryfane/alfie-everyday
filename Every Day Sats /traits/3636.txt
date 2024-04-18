@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: optimism
+HEAD: none
+EYES: Degen
+BODY: Hawaiian shirt

@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: optimism
+HEAD: Beanie cap
+EYES: none
+BODY: Cream turtleneck

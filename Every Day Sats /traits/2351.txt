@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: hope
+HEAD: Mario cap
+EYES: Guy Fawkes mask
+BODY: White t-shirt

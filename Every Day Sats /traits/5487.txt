@@ -1,0 +1,5 @@
+TYPE: Machine
+EMOTIONS: none
+HEAD: Purple cap
+EYES: Mog
+BODY: Vitalik tee

@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: euphoria
+HEAD: Cowboy hat
+EYES: Black raybans
+BODY: Gary suit

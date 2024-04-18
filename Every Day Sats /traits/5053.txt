@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: depression
+HEAD: Red hat
+EYES: Professor
+BODY: Goth t-shirt

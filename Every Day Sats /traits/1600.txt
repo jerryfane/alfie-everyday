@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: euphoria
+HEAD: Wizard hat
+EYES: Bitcoin
+BODY: Stripe t-shirt

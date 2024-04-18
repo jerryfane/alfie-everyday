@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: euphoria
+HEAD: Gamer headset
+EYES: None
+BODY: Nerd sweater

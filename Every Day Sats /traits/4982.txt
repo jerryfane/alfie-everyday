@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: anger
+HEAD: none
+EYES: None
+BODY: Space suit

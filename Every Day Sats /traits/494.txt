@@ -1,0 +1,5 @@
+TYPE: Dorian Nakamoto
+EMOTIONS: hope
+HEAD: Vietnam helmet
+EYES: Professor
+BODY: Gun holster

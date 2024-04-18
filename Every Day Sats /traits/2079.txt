@@ -1,0 +1,5 @@
+TYPE: PTSD Soldier
+EMOTIONS: none
+HEAD: Bitcoin cap
+EYES: none
+BODY: Prison jumpsuit

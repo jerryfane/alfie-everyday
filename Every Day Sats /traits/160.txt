@@ -1,0 +1,5 @@
+TYPE: Igor Bogdanoff
+EMOTIONS: anger
+HEAD: Beanie cap
+EYES: Professor
+BODY: Matrix Trenchcoat

@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: hope
+HEAD: none
+EYES: none
+BODY: none

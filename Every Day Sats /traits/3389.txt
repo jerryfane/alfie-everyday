@@ -1,0 +1,5 @@
+TYPE: Machine
+EMOTIONS: none
+HEAD: Farmer hat
+EYES: none
+BODY: Farmer shirt

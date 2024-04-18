@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: euphoria
+HEAD: Blue hat
+EYES: X
+BODY: Moncler Jacket

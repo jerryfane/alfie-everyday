@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: hope
+HEAD: Red hat
+EYES: None
+BODY: Prada suit

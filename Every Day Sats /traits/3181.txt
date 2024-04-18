@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: euphoria
+HEAD: North Korean hat
+EYES: none
+BODY: Black turtleneck

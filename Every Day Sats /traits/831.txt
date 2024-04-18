@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: Heisenberg hat
+EYES: X
+BODY: Black jacket

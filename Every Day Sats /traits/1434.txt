@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: euphoria
+HEAD: Gamer headset
+EYES: Nuked
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: E Girl
+EMOTIONS: anger
+HEAD: Bucket hat
+EYES: none
+BODY: Blue turtleneck

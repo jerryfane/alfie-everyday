@@ -1,0 +1,5 @@
+TYPE: Ginger nerd
+EMOTIONS: euphoria
+HEAD: Captain hat
+EYES: none
+BODY: None

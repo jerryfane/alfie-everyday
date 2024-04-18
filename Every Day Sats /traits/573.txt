@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: depression
+HEAD: none
+EYES: Fisher
+BODY: Hawaiian shirt

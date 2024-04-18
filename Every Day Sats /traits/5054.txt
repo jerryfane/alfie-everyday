@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: euphoria
+HEAD: Tinfoil hat
+EYES: None
+BODY: Vitalik tee

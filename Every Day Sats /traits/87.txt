@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: optimism
+HEAD: Supreme hat
+EYES: Black raybans
+BODY: Prison jumpsuit

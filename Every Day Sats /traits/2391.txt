@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: depression
+HEAD: Captain hat
+EYES: None
+BODY: Black jacket

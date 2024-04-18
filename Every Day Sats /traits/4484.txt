@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: Purple cap
+EYES: Degen
+BODY: Prison jumpsuit

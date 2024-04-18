@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: depression
+HEAD: none
+EYES: none
+BODY: Red hoodie

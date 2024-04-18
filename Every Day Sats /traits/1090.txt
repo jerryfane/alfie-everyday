@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: optimism
+HEAD: Vietnam helmet
+EYES: Lasereyes
+BODY: Prison jumpsuit

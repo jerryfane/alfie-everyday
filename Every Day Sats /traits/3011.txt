@@ -1,0 +1,5 @@
+TYPE: Captain Now
+EMOTIONS: none
+HEAD: Royal Crown
+EYES: Bitcoin
+BODY: Pink pimp coat_

@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: optimism
+HEAD: Cowboy hat
+EYES: None
+BODY: Cyber vest

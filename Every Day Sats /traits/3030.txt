@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: optimism
+HEAD: Captain hat
+EYES: Nuked
+BODY: Hawaiian shirt

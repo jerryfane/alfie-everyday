@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: depression
+HEAD: MAGA cap
+EYES: Black raybans
+BODY: Matrix Trenchcoat

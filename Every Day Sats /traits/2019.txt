@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: depression
+HEAD: McD cap
+EYES: None
+BODY: Iron Man

@@ -1,0 +1,5 @@
+TYPE: Doomer Girl
+EMOTIONS: optimism
+HEAD: Heisenberg hat
+EYES: None
+BODY: Goth t-shirt

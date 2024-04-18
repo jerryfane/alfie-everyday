@@ -1,0 +1,5 @@
+TYPE: Persian Cat
+EMOTIONS: none
+HEAD: BDSM hat
+EYES: Professor
+BODY: Matrix Trenchcoat

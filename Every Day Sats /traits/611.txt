@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: anger
+HEAD: Vietnam helmet
+EYES: Elvis
+BODY: Prison jumpsuit

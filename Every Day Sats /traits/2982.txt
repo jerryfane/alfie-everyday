@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: optimism
+HEAD: Chef’s hat
+EYES: Black raybans
+BODY: None

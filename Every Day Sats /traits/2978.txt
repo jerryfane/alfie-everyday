@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: hope
+HEAD: Bitcoin cap
+EYES: Degen
+BODY: Black turtleneck

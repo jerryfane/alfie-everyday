@@ -1,0 +1,5 @@
+TYPE: E Girl
+EMOTIONS: depression
+HEAD: none
+EYES: Elvis
+BODY: Red hoodie

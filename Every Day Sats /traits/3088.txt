@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: optimism
+HEAD: Red hat
+EYES: None
+BODY: Racing jacket

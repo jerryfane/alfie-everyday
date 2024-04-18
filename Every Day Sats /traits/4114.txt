@@ -1,0 +1,5 @@
+TYPE: Machine
+EMOTIONS: none
+HEAD: Rise farmer hat
+EYES: Black raybans
+BODY: Moncler Jacket

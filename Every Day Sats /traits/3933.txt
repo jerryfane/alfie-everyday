@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: anger
+HEAD: Beanie cap
+EYES: None
+BODY: drug dealer pullover

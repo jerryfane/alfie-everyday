@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: optimism
+HEAD: BDSM hat
+EYES: Nerd
+BODY: Matrix Trenchcoat

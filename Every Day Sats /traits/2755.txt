@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: optimism
+HEAD: Chef’s hat
+EYES: Professor
+BODY: Matrix Trenchcoat

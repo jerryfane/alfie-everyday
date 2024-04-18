@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: optimism
+HEAD: North Korean hat
+EYES: Deal with it
+BODY: Matrix Trenchcoat

@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: hope
+HEAD: Red hat
+EYES: Future
+BODY: Vitalik tee

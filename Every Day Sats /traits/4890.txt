@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: hope
+HEAD: MAGA cap
+EYES: Professor
+BODY: none

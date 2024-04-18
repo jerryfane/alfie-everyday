@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: optimism
+HEAD: Captain hat
+EYES: Lasereyes
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: None
+EYES: Elvis
+BODY: Black hoodie

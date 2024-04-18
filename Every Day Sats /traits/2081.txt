@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: euphoria
+HEAD: Bucket hat
+EYES: Mog
+BODY: Hawaiian shirt

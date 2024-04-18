@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: optimism
+HEAD: Purple cap
+EYES: Elvis
+BODY: Matrix Trenchcoat

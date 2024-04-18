@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: hope
+HEAD: none
+EYES: Mog
+BODY: Kimono

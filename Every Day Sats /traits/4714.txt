@@ -1,0 +1,5 @@
+TYPE: skeleton
+EMOTIONS: none
+HEAD: Bucket hat
+EYES: Black raybans
+BODY: None

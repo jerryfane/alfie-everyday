@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: anger
+HEAD: Purple cap
+EYES: None
+BODY: Prison jumpsuit

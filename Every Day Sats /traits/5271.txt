@@ -1,0 +1,5 @@
+TYPE: Captain Now
+EMOTIONS: none
+HEAD: Vietnam helmet
+EYES: none
+BODY: Gary suit

@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: anger
+HEAD: Red hat
+EYES: Deal with it
+BODY: Pink pimp coat_

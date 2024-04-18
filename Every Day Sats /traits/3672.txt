@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: depression
+HEAD: Mario cap
+EYES: Future
+BODY: Prada suit

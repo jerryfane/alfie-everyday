@@ -1,0 +1,5 @@
+TYPE: Bitcoin Bull
+EMOTIONS: optimism
+HEAD: Wif hat
+EYES: None
+BODY: Racing jacket

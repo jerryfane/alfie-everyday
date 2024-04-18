@@ -1,0 +1,5 @@
+TYPE: Ponzi Presenter
+EMOTIONS: hope
+HEAD: Toxedo hat
+EYES: Mog
+BODY: Toxedo

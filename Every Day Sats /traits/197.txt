@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: optimism
+HEAD: FBI
+EYES: FBI
+BODY: FBI

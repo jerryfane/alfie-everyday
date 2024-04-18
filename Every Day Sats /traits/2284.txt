@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: euphoria
+HEAD: None
+EYES: Black raybans
+BODY: Vitalik tee

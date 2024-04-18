@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: hope
+HEAD: None
+EYES: Mog
+BODY: Prison jumpsuit

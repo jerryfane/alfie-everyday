@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: euphoria
+HEAD: Cowboy hat
+EYES: none
+BODY: Brown jacket

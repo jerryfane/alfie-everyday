@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: hope
+HEAD: French Beret
+EYES: none
+BODY: Hawaiian shirt

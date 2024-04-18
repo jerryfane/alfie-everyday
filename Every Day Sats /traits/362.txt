@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: anger
+HEAD: Wif hat
+EYES: Degen
+BODY: Prada suit

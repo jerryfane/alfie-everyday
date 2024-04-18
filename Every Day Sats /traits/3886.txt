@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: depression
+HEAD: Cowboy hat
+EYES: Mog
+BODY: Kimono

@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: euphoria
+HEAD: Bucket hat
+EYES: Professor
+BODY: Pinc turtleneck

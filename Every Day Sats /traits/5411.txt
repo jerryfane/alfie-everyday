@@ -1,0 +1,5 @@
+TYPE: Ponzi Presenter
+EMOTIONS: anger
+HEAD: McD cap
+EYES: Mog
+BODY: Gary suit

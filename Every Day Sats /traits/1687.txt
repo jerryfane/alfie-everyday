@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: optimism
+HEAD: Bitcoin cap
+EYES: Aviator
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: hope
+HEAD: Mario cap
+EYES: Professor
+BODY: Black turtleneck

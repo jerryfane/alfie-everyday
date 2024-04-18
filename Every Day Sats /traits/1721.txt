@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: depression
+HEAD: Red hat
+EYES: Gaga
+BODY: Moncler Jacket

@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: depression
+HEAD: Wif hat
+EYES: none
+BODY: Tank top

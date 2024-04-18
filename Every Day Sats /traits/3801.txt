@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: anger
+HEAD: Royal Crown
+EYES: Bitcoin
+BODY: Prison jumpsuit

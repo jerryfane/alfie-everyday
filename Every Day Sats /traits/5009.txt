@@ -1,0 +1,5 @@
+TYPE: Classic nerd
+EMOTIONS: hope
+HEAD: Heisenberg hat
+EYES: Cypherpunk mask
+BODY: Matrix Trenchcoat

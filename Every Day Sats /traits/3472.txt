@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: Beanie cap
+EYES: none
+BODY: Orange pimp coat_

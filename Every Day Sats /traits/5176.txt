@@ -1,0 +1,5 @@
+TYPE: PTSD Soldier
+EMOTIONS: none
+HEAD: Wif hat
+EYES: None
+BODY: Purple t-shirt

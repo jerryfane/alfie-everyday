@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: hope
+HEAD: Chef’s hat
+EYES: Black raybans
+BODY: Hawaiian shirt

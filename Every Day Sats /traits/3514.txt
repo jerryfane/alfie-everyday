@@ -1,0 +1,5 @@
+TYPE: Bitcoin Bull
+EMOTIONS: euphoria
+HEAD: Captain hat
+EYES: Lasereyes
+BODY: Brown jacket

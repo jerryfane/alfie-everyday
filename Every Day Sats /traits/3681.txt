@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: euphoria
+HEAD: Captain hat
+EYES: Deal with it
+BODY: Black turtleneck

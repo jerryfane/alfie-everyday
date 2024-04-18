@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: euphoria
+HEAD: Chef’s hat
+EYES: Degen
+BODY: Black Chef’s jacket

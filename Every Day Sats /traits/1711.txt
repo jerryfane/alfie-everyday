@@ -1,0 +1,5 @@
+TYPE: Persian Cat
+EMOTIONS: none
+HEAD: Chef’s hat
+EYES: Degen
+BODY: Black Chef’s jacket

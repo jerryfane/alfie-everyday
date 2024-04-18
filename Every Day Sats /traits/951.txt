@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: optimism
+HEAD: Vietnam helmet
+EYES: none
+BODY: Green blazer

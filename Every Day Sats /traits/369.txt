@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: Mario cap
+EYES: Degen
+BODY: Kimono

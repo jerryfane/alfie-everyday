@@ -1,0 +1,5 @@
+TYPE: Gigachad
+EMOTIONS: anger
+HEAD: none
+EYES: none
+BODY: none

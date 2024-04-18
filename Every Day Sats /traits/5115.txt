@@ -1,0 +1,5 @@
+TYPE: Stoned Fox
+EMOTIONS: none
+HEAD: Mario cap
+EYES: None
+BODY: Orange pimp coat_

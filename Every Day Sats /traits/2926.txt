@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: depression
+HEAD: Royal Crown
+EYES: none
+BODY: Byzantine toga

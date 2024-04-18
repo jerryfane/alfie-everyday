@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: euphoria
+HEAD: Mexican Hat
+EYES: Mog
+BODY: Pink pimp coat_

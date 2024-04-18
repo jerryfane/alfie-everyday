@@ -1,0 +1,5 @@
+TYPE: KevinChang
+EMOTIONS: none
+HEAD: French Beret
+EYES: Evil
+BODY: Black Chef’s jacket

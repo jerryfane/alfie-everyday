@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: optimism
+HEAD: Bitcoin cap
+EYES: Degen
+BODY: Black t-shirt

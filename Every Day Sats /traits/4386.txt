@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: depression
+HEAD: Mexican Hat
+EYES: none
+BODY: Matrix Trenchcoat

@@ -1,0 +1,5 @@
+TYPE: Persian Cat
+EMOTIONS: none
+HEAD: Mario cap
+EYES: Professor
+BODY: Brown jacket

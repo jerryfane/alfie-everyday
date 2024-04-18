@@ -1,0 +1,5 @@
+TYPE: Stoned Fox
+EMOTIONS: none
+HEAD: Heisenberg hat
+EYES: Elvis
+BODY: Matrix Trenchcoat

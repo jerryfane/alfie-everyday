@@ -1,0 +1,5 @@
+TYPE: Office Guy
+EMOTIONS: none
+HEAD: Purple cap
+EYES: none
+BODY: 9 to 5 shirt

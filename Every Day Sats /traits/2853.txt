@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: anger
+HEAD: None
+EYES: Professor
+BODY: Prada suit

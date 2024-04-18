@@ -1,0 +1,5 @@
+TYPE: Ponzi Promoter
+EMOTIONS: anger
+HEAD: Captain hat
+EYES: None
+BODY: Black t-shirt

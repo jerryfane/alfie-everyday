@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: optimism
+HEAD: Royal Crown
+EYES: none
+BODY: Orange pimp coat_

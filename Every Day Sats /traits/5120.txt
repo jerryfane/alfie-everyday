@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: anger
+HEAD: none
+EYES: none
+BODY: none

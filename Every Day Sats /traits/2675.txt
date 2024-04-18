@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: euphoria
+HEAD: Wif hat
+EYES: Mog
+BODY: Prison jumpsuit

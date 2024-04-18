@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: Mexican Hat
+EYES: None
+BODY: Green blazer

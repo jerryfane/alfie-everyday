@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: euphoria
+HEAD: Heisenberg hat
+EYES: X
+BODY: None

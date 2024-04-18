@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: anger
+HEAD: Red hat
+EYES: Mog
+BODY: Racing jacket

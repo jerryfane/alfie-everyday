@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: None
+EYES: Mog
+BODY: Prada suit

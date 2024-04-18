@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: hope
+HEAD: Cowboy hat
+EYES: Professor
+BODY: Gary suit

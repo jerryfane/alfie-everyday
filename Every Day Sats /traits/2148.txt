@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: Supreme hat
+EYES: None
+BODY: White t-shirt

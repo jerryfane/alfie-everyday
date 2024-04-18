@@ -1,0 +1,5 @@
+TYPE: Doomer Girl
+EMOTIONS: anger
+HEAD: McD cap
+EYES: Nuked
+BODY: Black t-shirt

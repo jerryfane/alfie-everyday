@@ -1,0 +1,5 @@
+TYPE: Igor Bogdanoff
+EMOTIONS: anger
+HEAD: McD cap
+EYES: X
+BODY: Black t-shirt

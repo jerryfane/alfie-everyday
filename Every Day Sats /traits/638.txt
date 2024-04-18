@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: euphoria
+HEAD: Captain hat
+EYES: Deal with it
+BODY: Black turtleneck

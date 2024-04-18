@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: Tinfoil hat
+EYES: Elvis
+BODY: Tank top

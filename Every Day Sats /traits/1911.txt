@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: euphoria
+HEAD: Bitcoin cap
+EYES: none
+BODY: none

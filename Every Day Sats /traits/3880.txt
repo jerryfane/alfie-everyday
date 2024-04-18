@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: euphoria
+HEAD: Vietnam helmet
+EYES: Aviator
+BODY: Tank top

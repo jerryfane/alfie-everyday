@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: hope
+HEAD: MAGA cap
+EYES: None
+BODY: None

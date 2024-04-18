@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: optimism
+HEAD: Gamer headset
+EYES: Black raybans
+BODY: Hawaiian shirt

@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: euphoria
+HEAD: Farmer hat
+EYES: Black raybans
+BODY: Farmer shirt

@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: hope
+HEAD: Bucket hat
+EYES: Degen
+BODY: Black t-shirt

@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: anger
+HEAD: McD cap
+EYES: Aviator
+BODY: Matrix Trenchcoat

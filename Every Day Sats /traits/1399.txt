@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: euphoria
+HEAD: French Beret
+EYES: Professor
+BODY: Goth t-shirt

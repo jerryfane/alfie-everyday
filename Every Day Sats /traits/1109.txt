@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: anger
+HEAD: Toxedo hat
+EYES: none
+BODY: Toxedo

@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: euphoria
+HEAD: none
+EYES: Aviator
+BODY: White pimp coat_

@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: optimism
+HEAD: Bucket hat
+EYES: none
+BODY: Tank top

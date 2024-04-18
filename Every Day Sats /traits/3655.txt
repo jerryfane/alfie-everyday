@@ -1,0 +1,5 @@
+TYPE: Doomer Girl
+EMOTIONS: hope
+HEAD: none
+EYES: none
+BODY: none

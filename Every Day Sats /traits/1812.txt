@@ -1,0 +1,5 @@
+TYPE: Bitcoin Bull
+EMOTIONS: depression
+HEAD: None
+EYES: Nuked
+BODY: Matrix Trenchcoat

@@ -1,0 +1,5 @@
+TYPE: Padme
+EMOTIONS: depression
+HEAD: Supreme hat
+EYES: None
+BODY: Moncler Jacket

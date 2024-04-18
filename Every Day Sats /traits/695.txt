@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: hope
+HEAD: none
+EYES: none
+BODY: none

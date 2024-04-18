@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: anger
+HEAD: French Beret
+EYES: none
+BODY: Gary suit

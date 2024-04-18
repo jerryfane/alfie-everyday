@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: optimism
+HEAD: North Korean hat
+EYES: Future
+BODY: Prison jumpsuit

@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: euphoria
+HEAD: Blue hat
+EYES: Fisher
+BODY: None

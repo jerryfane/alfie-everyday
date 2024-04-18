@@ -1,0 +1,5 @@
+TYPE: Walking Chad
+EMOTIONS: optimism
+HEAD: Beanie cap
+EYES: Bitcoin
+BODY: None

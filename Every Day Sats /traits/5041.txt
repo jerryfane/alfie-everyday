@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: euphoria
+HEAD: Bucket hat
+EYES: Black raybans
+BODY: none

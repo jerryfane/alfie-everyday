@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: euphoria
+HEAD: None
+EYES: Degen
+BODY: Goth t-shirt

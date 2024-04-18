@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: anger
+HEAD: Supreme hat
+EYES: Black raybans
+BODY: Purple t-shirt

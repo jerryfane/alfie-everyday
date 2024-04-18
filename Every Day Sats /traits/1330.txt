@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: anger
+HEAD: Heisenberg hat
+EYES: Professor
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: euphoria
+HEAD: Cowboy hat
+EYES: Nuked
+BODY: Gun holster

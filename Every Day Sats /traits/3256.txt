@@ -1,0 +1,5 @@
+TYPE: Clown
+EMOTIONS: anger
+HEAD: McD cap
+EYES: Mog
+BODY: None

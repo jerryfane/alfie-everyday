@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: anger
+HEAD: French Beret
+EYES: Degen
+BODY: Kimono

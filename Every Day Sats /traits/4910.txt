@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: depression
+HEAD: Bucket hat
+EYES: Mog
+BODY: Goth t-shirt

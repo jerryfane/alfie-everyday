@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: hope
+HEAD: Beanie cap
+EYES: none
+BODY: Black t-shirt

@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: euphoria
+HEAD: Red hat
+EYES: Professor
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: optimism
+HEAD: Heisenberg hat
+EYES: none
+BODY: Matrix Trenchcoat

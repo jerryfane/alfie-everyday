@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: None
+EYES: Future
+BODY: Prada suit

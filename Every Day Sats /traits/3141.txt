@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: depression
+HEAD: None
+EYES: Mog
+BODY: Kimono

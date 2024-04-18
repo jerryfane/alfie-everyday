@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: optimism
+HEAD: Beanie cap
+EYES: Nuked
+BODY: Gun holster

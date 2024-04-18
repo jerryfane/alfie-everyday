@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: euphoria
+HEAD: Captain hat
+EYES: Elvis
+BODY: none

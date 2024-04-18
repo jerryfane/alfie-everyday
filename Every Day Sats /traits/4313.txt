@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: euphoria
+HEAD: Beanie cap
+EYES: Gaga
+BODY: Hawaiian shirt

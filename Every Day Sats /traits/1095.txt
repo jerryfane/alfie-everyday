@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: optimism
+HEAD: Chef’s hat
+EYES: Aviator
+BODY: Black t-shirt

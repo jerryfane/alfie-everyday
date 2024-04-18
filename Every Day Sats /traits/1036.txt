@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: anger
+HEAD: Royal Crown
+EYES: None
+BODY: Moncler Jacket

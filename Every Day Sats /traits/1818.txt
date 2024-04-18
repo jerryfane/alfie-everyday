@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: anger
+HEAD: French Beret
+EYES: Nouns
+BODY: Black turtleneck

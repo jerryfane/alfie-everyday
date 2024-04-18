@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: euphoria
+HEAD: Purple cap
+EYES: Degen
+BODY: Matrix Trenchcoat

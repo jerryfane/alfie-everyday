@@ -1,0 +1,5 @@
+TYPE: North Korean Hacker
+EMOTIONS: none
+HEAD: Captain hat
+EYES: None
+BODY: Hawaiian shirt

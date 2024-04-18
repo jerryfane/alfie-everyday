@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: hope
+HEAD: McD cap
+EYES: Degen
+BODY: Hawaiian shirt

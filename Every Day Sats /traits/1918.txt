@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: anger
+HEAD: BDSM hat
+EYES: Mog
+BODY: Hawaiian shirt

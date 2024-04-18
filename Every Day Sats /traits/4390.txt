@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: hope
+HEAD: none
+EYES: none
+BODY: none

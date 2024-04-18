@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: depression
+HEAD: Cowboy hat
+EYES: none
+BODY: None

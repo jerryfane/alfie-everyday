@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: hope
+HEAD: Vietnam helmet
+EYES: None
+BODY: Stripe t-shirt

@@ -1,0 +1,5 @@
+TYPE: PTSD Soldier
+EMOTIONS: none
+HEAD: Gran Autismo cap
+EYES: none
+BODY: White t-shirt

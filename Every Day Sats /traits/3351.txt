@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: euphoria
+HEAD: none
+EYES: Black raybans
+BODY: Black hoodie

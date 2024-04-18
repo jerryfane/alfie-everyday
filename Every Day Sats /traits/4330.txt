@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: hope
+HEAD: none
+EYES: Aviator
+BODY: None

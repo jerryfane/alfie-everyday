@@ -1,0 +1,5 @@
+TYPE: Dog wif hat
+EMOTIONS: none
+HEAD: Wif hat
+EYES: None
+BODY: none

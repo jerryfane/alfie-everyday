@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: optimism
+HEAD: North Korean hat
+EYES: Degen
+BODY: Prada suit

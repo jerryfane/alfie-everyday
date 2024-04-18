@@ -1,0 +1,5 @@
+TYPE: Clown
+EMOTIONS: euphoria
+HEAD: Beanie cap
+EYES: none
+BODY: Black t-shirt

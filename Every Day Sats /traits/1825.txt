@@ -1,0 +1,5 @@
+TYPE: Junkie
+EMOTIONS: depression
+HEAD: Junkie hat
+EYES: Mog
+BODY: Junkie jacket

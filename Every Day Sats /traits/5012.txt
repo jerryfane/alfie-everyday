@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: depression
+HEAD: Heisenberg hat
+EYES: Nouns
+BODY: None

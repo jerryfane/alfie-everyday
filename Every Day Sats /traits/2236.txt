@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: hope
+HEAD: Bitcoin cap
+EYES: none
+BODY: none

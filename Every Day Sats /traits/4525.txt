@@ -1,0 +1,5 @@
+TYPE: skeleton
+EMOTIONS: none
+HEAD: Mexican Hat
+EYES: Black raybans
+BODY: Iron Man

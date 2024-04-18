@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: depression
+HEAD: Supreme hat
+EYES: Black raybans
+BODY: Prison jumpsuit

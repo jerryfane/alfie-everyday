@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: euphoria
+HEAD: Gamer headset
+EYES: Nuked
+BODY: Black turtleneck

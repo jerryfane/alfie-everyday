@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: optimism
+HEAD: Supreme hat
+EYES: Black raybans
+BODY: Moncler Jacket

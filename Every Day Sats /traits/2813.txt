@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: depression
+HEAD: Wif hat
+EYES: Elvis
+BODY: White pimp coat_

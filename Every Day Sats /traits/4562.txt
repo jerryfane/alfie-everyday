@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: Rise farmer hat
+EYES: Professor
+BODY: Hawaiian shirt

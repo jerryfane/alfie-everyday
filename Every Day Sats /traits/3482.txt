@@ -1,0 +1,5 @@
+TYPE: PTSD Soldier
+EMOTIONS: none
+HEAD: McD cap
+EYES: None
+BODY: Prada suit

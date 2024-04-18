@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: hope
+HEAD: Captain hat
+EYES: Degen
+BODY: Blue turtleneck

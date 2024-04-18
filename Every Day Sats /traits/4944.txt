@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: optimism
+HEAD: Red hat
+EYES: Deal with it
+BODY: Matrix Trenchcoat

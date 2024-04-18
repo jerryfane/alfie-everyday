@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: euphoria
+HEAD: Purple cap
+EYES: X
+BODY: Black turtleneck

@@ -1,0 +1,5 @@
+TYPE: Bitcoin Bull
+EMOTIONS: euphoria
+HEAD: Chef’s hat
+EYES: Bitcoin
+BODY: None

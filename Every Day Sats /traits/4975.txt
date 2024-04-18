@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: hope
+HEAD: none
+EYES: none
+BODY: none

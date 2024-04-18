@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: euphoria
+HEAD: Royal Crown
+EYES: Bitcoin
+BODY: Prison jumpsuit

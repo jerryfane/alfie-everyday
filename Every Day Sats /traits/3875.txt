@@ -1,0 +1,5 @@
+TYPE: Orange T-Rex
+EMOTIONS: none
+HEAD: Toxedo hat
+EYES: none
+BODY: Toxedo

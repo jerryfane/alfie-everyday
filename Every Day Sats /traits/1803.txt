@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: anger
+HEAD: Purple cap
+EYES: Degen
+BODY: Matrix Trenchcoat

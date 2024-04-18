@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: hope
+HEAD: Wif hat
+EYES: Degen
+BODY: Racing jacket

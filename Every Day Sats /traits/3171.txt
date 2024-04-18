@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: depression
+HEAD: Captain hat
+EYES: Black raybans
+BODY: Brown jacket

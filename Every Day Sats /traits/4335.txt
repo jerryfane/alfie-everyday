@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: depression
+HEAD: Farmer hat
+EYES: none
+BODY: Farmer shirt

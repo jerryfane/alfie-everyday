@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: Chef’s hat
+EYES: none
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Bitcoin Bull
+EMOTIONS: optimism
+HEAD: Heisenberg hat
+EYES: Gaga
+BODY: Brown jacket

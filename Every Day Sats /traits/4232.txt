@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: anger
+HEAD: Cowboy hat
+EYES: Mog
+BODY: Matrix Trenchcoat

@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: anger
+HEAD: none
+EYES: Aviator
+BODY: Black hoodie

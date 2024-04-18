@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: euphoria
+HEAD: Royal Crown
+EYES: none
+BODY: Pink pimp coat_

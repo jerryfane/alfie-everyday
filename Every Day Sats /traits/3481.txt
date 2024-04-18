@@ -1,0 +1,5 @@
+TYPE: Bitcoin Bull
+EMOTIONS: optimism
+HEAD: Cowboy hat
+EYES: None
+BODY: Cream jacket

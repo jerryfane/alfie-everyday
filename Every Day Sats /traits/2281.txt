@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: anger
+HEAD: Heisenberg hat
+EYES: Degen
+BODY: Goth t-shirt

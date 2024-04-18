@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: hope
+HEAD: Beanie cap
+EYES: Black raybans
+BODY: none

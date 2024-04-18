@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: optimism
+HEAD: Supreme hat
+EYES: Degen
+BODY: Nerd sweater

@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: depression
+HEAD: North Korean hat
+EYES: Mog
+BODY: Racing jacket

@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: optimism
+HEAD: Blue hat
+EYES: none
+BODY: Stripe t-shirt

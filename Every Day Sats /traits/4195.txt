@@ -1,0 +1,5 @@
+TYPE: North Korean Hacker
+EMOTIONS: none
+HEAD: Bitcoin cap
+EYES: Mog
+BODY: Gun holster

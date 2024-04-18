@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: euphoria
+HEAD: None
+EYES: Mog
+BODY: Prada suit

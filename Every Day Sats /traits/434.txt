@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: depression
+HEAD: BDSM hat
+EYES: Aviator
+BODY: none

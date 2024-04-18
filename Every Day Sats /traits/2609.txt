@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: euphoria
+HEAD: Vietnam helmet
+EYES: None
+BODY: White t-shirt

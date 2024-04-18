@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: optimism
+HEAD: Bitcoin cap
+EYES: Mog
+BODY: Hawaiian shirt

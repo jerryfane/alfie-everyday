@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: euphoria
+HEAD: Royal Crown
+EYES: Nuked
+BODY: White t-shirt

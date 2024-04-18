@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: optimism
+HEAD: Mexican Hat
+EYES: Mog
+BODY: Goth t-shirt

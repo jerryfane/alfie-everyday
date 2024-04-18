@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: euphoria
+HEAD: Gamer headset
+EYES: Fisher
+BODY: Black t-shirt

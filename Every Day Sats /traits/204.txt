@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: depression
+HEAD: Vietnam helmet
+EYES: none
+BODY: Prison jumpsuit

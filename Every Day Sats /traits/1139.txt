@@ -1,0 +1,5 @@
+TYPE: Walking Chad
+EMOTIONS: euphoria
+HEAD: none
+EYES: Elvis
+BODY: Purple hoodie

@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: optimism
+HEAD: Red hat
+EYES: Bitcoin
+BODY: Matrix Trenchcoat

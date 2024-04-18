@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: hope
+HEAD: MAGA cap
+EYES: none
+BODY: Prison jumpsuit

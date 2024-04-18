@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: anger
+HEAD: Mexican Hat
+EYES: Fisher
+BODY: Prada suit

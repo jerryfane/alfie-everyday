@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: anger
+HEAD: Bucket hat
+EYES: Professor
+BODY: Hawaiian shirt

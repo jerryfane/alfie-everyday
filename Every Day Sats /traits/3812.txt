@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: hope
+HEAD: Blue hat
+EYES: Degen
+BODY: Goth t-shirt

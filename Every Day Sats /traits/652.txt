@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: optimism
+HEAD: Bucket hat
+EYES: Mog
+BODY: Hawaiian shirt

@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: anger
+HEAD: Wif hat
+EYES: Mog
+BODY: Orange pimp coat_

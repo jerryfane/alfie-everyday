@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: euphoria
+HEAD: Red hat
+EYES: none
+BODY: Moncler Jacket

@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: anger
+HEAD: French Beret
+EYES: none
+BODY: Vitalik tee

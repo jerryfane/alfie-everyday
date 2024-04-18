@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: anger
+HEAD: none
+EYES: Future
+BODY: Hawaiian shirt

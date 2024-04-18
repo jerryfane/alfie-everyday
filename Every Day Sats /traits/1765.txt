@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: anger
+HEAD: Gamer headset
+EYES: None
+BODY: Matrix Trenchcoat

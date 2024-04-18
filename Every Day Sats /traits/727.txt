@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: MAGA cap
+EYES: None
+BODY: Matrix Trenchcoat

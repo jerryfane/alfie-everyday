@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: euphoria
+HEAD: Cowboy hat
+EYES: Lasereyes
+BODY: None

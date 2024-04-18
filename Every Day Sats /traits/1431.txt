@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: anger
+HEAD: Captain hat
+EYES: Mog
+BODY: None

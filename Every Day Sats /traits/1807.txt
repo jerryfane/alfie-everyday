@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: euphoria
+HEAD: Supreme hat
+EYES: Mog
+BODY: White t-shirt

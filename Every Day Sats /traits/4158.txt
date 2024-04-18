@@ -1,0 +1,5 @@
+TYPE: Persian Cat
+EMOTIONS: none
+HEAD: none
+EYES: none
+BODY: none

@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: euphoria
+HEAD: McD cap
+EYES: Professor
+BODY: Tank top

@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: optimism
+HEAD: French Beret
+EYES: Mog
+BODY: Black t-shirt

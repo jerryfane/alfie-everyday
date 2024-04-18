@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: Blue hat
+EYES: Lasereyes
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: hope
+HEAD: Royal Crown
+EYES: Professor
+BODY: None

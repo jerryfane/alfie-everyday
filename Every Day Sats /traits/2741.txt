@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: depression
+HEAD: Captain hat
+EYES: none
+BODY: Blue turtleneck

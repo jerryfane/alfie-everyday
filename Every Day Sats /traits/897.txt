@@ -1,0 +1,5 @@
+TYPE: Office Guy
+EMOTIONS: none
+HEAD: Supreme hat
+EYES: None
+BODY: Matrix Trenchcoat

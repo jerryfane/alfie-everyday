@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: optimism
+HEAD: None
+EYES: None
+BODY: White Chef’s jacket

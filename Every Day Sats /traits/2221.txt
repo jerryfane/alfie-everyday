@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: depression
+HEAD: None
+EYES: Nouns
+BODY: Moncler Jacket

@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: anger
+HEAD: MAGA cap
+EYES: None
+BODY: Moncler Jacket

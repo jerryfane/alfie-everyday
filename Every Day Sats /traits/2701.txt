@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: optimism
+HEAD: McD cap
+EYES: None
+BODY: None

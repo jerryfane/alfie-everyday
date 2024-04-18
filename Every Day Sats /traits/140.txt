@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: depression
+HEAD: Purple cap
+EYES: X
+BODY: Gary suit

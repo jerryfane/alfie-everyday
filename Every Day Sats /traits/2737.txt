@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: anger
+HEAD: Mexican Hat
+EYES: Mog
+BODY: Racing jacket

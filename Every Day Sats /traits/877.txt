@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: euphoria
+HEAD: French Beret
+EYES: Black raybans
+BODY: Green blazer

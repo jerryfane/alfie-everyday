@@ -1,0 +1,5 @@
+TYPE: Golden Bull
+EMOTIONS: optimism
+HEAD: none
+EYES: none
+BODY: none

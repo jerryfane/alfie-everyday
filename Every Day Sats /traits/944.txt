@@ -1,0 +1,5 @@
+TYPE: Junkie
+EMOTIONS: euphoria
+HEAD: Junkie hat
+EYES: Degen
+BODY: Junkie jacket

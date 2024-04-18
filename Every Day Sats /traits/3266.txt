@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: optimism
+HEAD: Wizard hat
+EYES: Bitcoin
+BODY: Vitalik tee

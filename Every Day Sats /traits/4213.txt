@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: optimism
+HEAD: Red hat
+EYES: Bitcoin
+BODY: Prison jumpsuit

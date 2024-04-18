@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: depression
+HEAD: None
+EYES: none
+BODY: Pinc turtleneck

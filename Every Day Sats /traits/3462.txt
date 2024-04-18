@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: euphoria
+HEAD: Captain hat
+EYES: Lasereyes
+BODY: Cream jacket

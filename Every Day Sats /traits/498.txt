@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: depression
+HEAD: None
+EYES: None
+BODY: Prison jumpsuit

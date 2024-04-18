@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: optimism
+HEAD: none
+EYES: Aviator
+BODY: Purple hoodie

@@ -1,0 +1,5 @@
+TYPE: Igor Bogdanoff
+EMOTIONS: depression
+HEAD: Captain hat
+EYES: None
+BODY: Hawaiian shirt

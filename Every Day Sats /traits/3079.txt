@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: euphoria
+HEAD: MAGA cap
+EYES: None
+BODY: Matrix Trenchcoat

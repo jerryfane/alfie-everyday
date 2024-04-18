@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: optimism
+HEAD: None
+EYES: None
+BODY: Gary suit

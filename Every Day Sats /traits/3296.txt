@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: hope
+HEAD: Rise farmer hat
+EYES: Gaga
+BODY: Matrix Trenchcoat

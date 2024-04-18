@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: anger
+HEAD: Vietnam helmet
+EYES: Nouns
+BODY: Prada suit

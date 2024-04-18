@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: hope
+HEAD: none
+EYES: Lasereyes
+BODY: Vitalik tee

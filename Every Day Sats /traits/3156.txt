@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: depression
+HEAD: MAGA cap
+EYES: Degen
+BODY: Matrix Trenchcoat

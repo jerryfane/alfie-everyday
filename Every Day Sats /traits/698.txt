@@ -1,0 +1,5 @@
+TYPE: Dorian Nakamoto
+EMOTIONS: depression
+HEAD: Captain hat
+EYES: Professor
+BODY: Kimono

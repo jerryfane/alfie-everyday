@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: hope
+HEAD: North Korean hat
+EYES: Professor
+BODY: Green turtleneck

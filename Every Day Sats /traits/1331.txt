@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: depression
+HEAD: Cowboy hat
+EYES: Black raybans
+BODY: Cream jacket

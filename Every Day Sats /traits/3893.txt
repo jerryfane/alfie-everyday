@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: optimism
+HEAD: McD cap
+EYES: Lasereyes
+BODY: Matrix Trenchcoat

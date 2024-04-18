@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: hope
+HEAD: Rise farmer hat
+EYES: Mog
+BODY: Tank top

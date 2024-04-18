@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: optimism
+HEAD: Royal Crown
+EYES: Bitcoin
+BODY: Pink pimp coat_

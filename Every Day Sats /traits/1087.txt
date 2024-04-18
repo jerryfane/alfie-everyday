@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: anger
+HEAD: McD cap
+EYES: Mog
+BODY: Prada suit

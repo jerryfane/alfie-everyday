@@ -1,0 +1,5 @@
+TYPE: Gigachad
+EMOTIONS: euphoria
+HEAD: Chef’s hat
+EYES: Lasereyes
+BODY: None

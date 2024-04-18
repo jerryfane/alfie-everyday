@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: euphoria
+HEAD: BDSM hat
+EYES: Professor
+BODY: Matrix Trenchcoat

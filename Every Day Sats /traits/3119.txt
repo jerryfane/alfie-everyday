@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: hope
+HEAD: BDSM hat
+EYES: Nouns
+BODY: Matrix Trenchcoat

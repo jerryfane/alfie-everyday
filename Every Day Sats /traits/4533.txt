@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: anger
+HEAD: None
+EYES: Black raybans
+BODY: None

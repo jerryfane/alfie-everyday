@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: euphoria
+HEAD: Wif hat
+EYES: Nerd
+BODY: Moncler Jacket

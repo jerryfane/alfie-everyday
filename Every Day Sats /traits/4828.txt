@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: hope
+HEAD: Beanie cap
+EYES: Mog
+BODY: Kimono

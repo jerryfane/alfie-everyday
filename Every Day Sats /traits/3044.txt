@@ -1,0 +1,5 @@
+TYPE: Walking Chad
+EMOTIONS: euphoria
+HEAD: Blue hat
+EYES: Aviator
+BODY: Black jacket

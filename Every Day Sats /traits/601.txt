@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: anger
+HEAD: Heisenberg hat
+EYES: Nuked
+BODY: Brown jacket

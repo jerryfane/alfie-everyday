@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: anger
+HEAD: none
+EYES: Bitcoin
+BODY: Black turtleneck

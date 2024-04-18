@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: euphoria
+HEAD: Captain hat
+EYES: Mog
+BODY: Gun holster

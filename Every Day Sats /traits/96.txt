@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: hope
+HEAD: Blue hat
+EYES: Professor
+BODY: Matrix Trenchcoat

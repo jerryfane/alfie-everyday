@@ -1,0 +1,5 @@
+TYPE: Padme
+EMOTIONS: depression
+HEAD: None
+EYES: none
+BODY: none

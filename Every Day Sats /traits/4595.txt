@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: Purple cap
+EYES: None
+BODY: Racing jacket

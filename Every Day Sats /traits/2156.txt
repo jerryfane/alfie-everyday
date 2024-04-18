@@ -1,0 +1,5 @@
+TYPE: Golden Bull
+EMOTIONS: depression
+HEAD: none
+EYES: Elvis
+BODY: Gary suit

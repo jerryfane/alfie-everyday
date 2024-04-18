@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: anger
+HEAD: Supreme hat
+EYES: Fisher
+BODY: Pink pimp coat_

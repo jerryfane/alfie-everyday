@@ -1,0 +1,5 @@
+TYPE: Bitcoin Bull
+EMOTIONS: anger
+HEAD: McD cap
+EYES: None
+BODY: Hawaiian shirt

@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: anger
+HEAD: none
+EYES: Degen
+BODY: Gary suit

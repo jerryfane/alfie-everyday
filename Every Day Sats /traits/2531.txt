@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: optimism
+HEAD: none
+EYES: none
+BODY: none

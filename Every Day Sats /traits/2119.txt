@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: optimism
+HEAD: Farmer hat
+EYES: none
+BODY: Farmer shirt

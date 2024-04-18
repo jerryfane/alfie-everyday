@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: anger
+HEAD: Rug merchant hat
+EYES: Degen
+BODY: Rug merchant

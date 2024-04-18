@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: hope
+HEAD: none
+EYES: none
+BODY: none

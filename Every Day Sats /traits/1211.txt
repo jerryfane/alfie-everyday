@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: anger
+HEAD: MAGA cap
+EYES: Mog
+BODY: Cream jacket

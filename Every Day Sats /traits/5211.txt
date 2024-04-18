@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: anger
+HEAD: Beanie cap
+EYES: Gaga
+BODY: Hawaiian shirt

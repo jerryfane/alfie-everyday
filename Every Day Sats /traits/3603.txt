@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: MAGA cap
+EYES: Degen
+BODY: Gun holster

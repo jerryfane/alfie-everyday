@@ -1,0 +1,5 @@
+TYPE: KevinChang
+EMOTIONS: none
+HEAD: Farmer hat
+EYES: Black raybans
+BODY: Farmer shirt

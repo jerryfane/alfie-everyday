@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: anger
+HEAD: Cowboy hat
+EYES: Mog
+BODY: Blue turtleneck

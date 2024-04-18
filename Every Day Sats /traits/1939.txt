@@ -1,0 +1,5 @@
+TYPE: Persian Cat
+EMOTIONS: none
+HEAD: Bucket hat
+EYES: Fisher
+BODY: None

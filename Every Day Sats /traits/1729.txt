@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: Bucket hat
+EYES: Deal with it
+BODY: Black turtleneck

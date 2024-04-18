@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: anger
+HEAD: Gamer headset
+EYES: None
+BODY: Blue turtleneck

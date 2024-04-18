@@ -1,0 +1,5 @@
+TYPE: Machine
+EMOTIONS: none
+HEAD: Royal Crown
+EYES: Deal with it
+BODY: Moncler Jacket

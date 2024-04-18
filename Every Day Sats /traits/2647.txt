@@ -1,0 +1,5 @@
+TYPE: Pepe Girl
+EMOTIONS: hope
+HEAD: Royal Crown
+EYES: Degen
+BODY: PepeGirl dress

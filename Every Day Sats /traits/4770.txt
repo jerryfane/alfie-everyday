@@ -1,0 +1,5 @@
+TYPE: Igor Bogdanoff
+EMOTIONS: optimism
+HEAD: Captain hat
+EYES: Mog
+BODY: Kimono

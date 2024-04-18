@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: hope
+HEAD: Vietnam helmet
+EYES: none
+BODY: None

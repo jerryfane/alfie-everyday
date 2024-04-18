@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: anger
+HEAD: BDSM hat
+EYES: Professor
+BODY: Kimono

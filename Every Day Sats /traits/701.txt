@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: optimism
+HEAD: Gran Autismo cap
+EYES: Professor
+BODY: Green blazer

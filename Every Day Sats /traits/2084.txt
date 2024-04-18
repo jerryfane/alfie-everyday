@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: hope
+HEAD: None
+EYES: X
+BODY: Prison jumpsuit

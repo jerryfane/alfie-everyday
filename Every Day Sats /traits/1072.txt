@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: optimism
+HEAD: Mario cap
+EYES: Professor
+BODY: None

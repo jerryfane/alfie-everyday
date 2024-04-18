@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: euphoria
+HEAD: Purple cap
+EYES: Bitcoin
+BODY: Prison jumpsuit

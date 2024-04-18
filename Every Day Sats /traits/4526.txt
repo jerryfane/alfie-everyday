@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: euphoria
+HEAD: French Beret
+EYES: Elvis
+BODY: Black t-shirt

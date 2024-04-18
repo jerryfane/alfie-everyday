@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: optimism
+HEAD: Cowboy hat
+EYES: Gaga
+BODY: none

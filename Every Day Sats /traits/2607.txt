@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: hope
+HEAD: McD cap
+EYES: Lasereyes
+BODY: Matrix Trenchcoat

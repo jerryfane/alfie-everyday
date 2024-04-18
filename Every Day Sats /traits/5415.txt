@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: hope
+HEAD: Captain hat
+EYES: None
+BODY: Gun holster

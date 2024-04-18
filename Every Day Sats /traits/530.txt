@@ -1,0 +1,5 @@
+TYPE: Ponzi Presenter
+EMOTIONS: anger
+HEAD: None
+EYES: Nouns
+BODY: Racing jacket

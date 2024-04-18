@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: anger
+HEAD: Supreme hat
+EYES: Fisher
+BODY: Matrix Trenchcoat

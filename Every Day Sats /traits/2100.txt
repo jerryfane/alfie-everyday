@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: optimism
+HEAD: McD cap
+EYES: Degen
+BODY: Matrix Trenchcoat

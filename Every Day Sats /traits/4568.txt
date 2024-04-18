@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: optimism
+HEAD: North Korean hat
+EYES: Elvis
+BODY: Matrix Trenchcoat

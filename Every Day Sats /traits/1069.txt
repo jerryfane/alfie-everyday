@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: optimism
+HEAD: Supreme hat
+EYES: Gaga
+BODY: Matrix Trenchcoat

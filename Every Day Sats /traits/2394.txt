@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: anger
+HEAD: Supreme hat
+EYES: none
+BODY: Prison jumpsuit

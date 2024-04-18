@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: depression
+HEAD: Cowboy hat
+EYES: Degen
+BODY: Gary suit

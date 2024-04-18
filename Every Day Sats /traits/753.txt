@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: optimism
+HEAD: Mario cap
+EYES: Nouns
+BODY: none

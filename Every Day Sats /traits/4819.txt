@@ -1,0 +1,5 @@
+TYPE: Dorian Nakamoto
+EMOTIONS: euphoria
+HEAD: Bucket hat
+EYES: Mog
+BODY: Gun holster

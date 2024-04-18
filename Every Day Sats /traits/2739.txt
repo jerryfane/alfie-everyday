@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: optimism
+HEAD: Royal Crown
+EYES: Elvis
+BODY: Orange pimp coat_

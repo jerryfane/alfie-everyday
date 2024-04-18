@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: optimism
+HEAD: Captain hat
+EYES: Lasereyes
+BODY: None

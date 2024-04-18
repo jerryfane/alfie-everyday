@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: depression
+HEAD: Gran Autismo cap
+EYES: Gaga
+BODY: Black turtleneck

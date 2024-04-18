@@ -1,0 +1,5 @@
+TYPE: Stoned Fox
+EMOTIONS: none
+HEAD: Bitcoin cap
+EYES: Degen
+BODY: Gary suit

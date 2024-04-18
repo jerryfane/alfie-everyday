@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: optimism
+HEAD: Supreme hat
+EYES: none
+BODY: Black turtleneck

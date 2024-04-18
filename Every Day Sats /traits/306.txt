@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: optimism
+HEAD: Chef’s hat
+EYES: None
+BODY: Kimono

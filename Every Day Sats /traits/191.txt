@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: depression
+HEAD: Captain hat
+EYES: none
+BODY: Stripe t-shirt

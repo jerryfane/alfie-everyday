@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: euphoria
+HEAD: Bitcoin cap
+EYES: Mog
+BODY: Hawaiian shirt

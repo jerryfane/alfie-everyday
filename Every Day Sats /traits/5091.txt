@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: euphoria
+HEAD: Wizard hat
+EYES: Mog
+BODY: Orange pimp coat_

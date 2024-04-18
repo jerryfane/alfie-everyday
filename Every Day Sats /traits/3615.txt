@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: euphoria
+HEAD: Supreme hat
+EYES: Future
+BODY: Matrix Trenchcoat

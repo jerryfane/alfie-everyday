@@ -1,0 +1,5 @@
+TYPE: Ponzi Promoter
+EMOTIONS: hope
+HEAD: Blue hat
+EYES: Mog
+BODY: Hawaiian shirt

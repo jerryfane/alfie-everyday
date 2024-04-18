@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: hope
+HEAD: BDSM hat
+EYES: none
+BODY: Black t-shirt

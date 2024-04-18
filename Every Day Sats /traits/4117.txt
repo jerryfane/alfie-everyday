@@ -1,0 +1,5 @@
+TYPE: Doomer Girl
+EMOTIONS: optimism
+HEAD: Red hat
+EYES: none
+BODY: Prison jumpsuit

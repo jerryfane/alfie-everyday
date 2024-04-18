@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: anger
+HEAD: Captain hat
+EYES: Mog
+BODY: Matrix Trenchcoat

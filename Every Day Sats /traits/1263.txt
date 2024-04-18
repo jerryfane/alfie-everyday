@@ -1,0 +1,5 @@
+TYPE: Bitcoin Bull
+EMOTIONS: optimism
+HEAD: Rise farmer hat
+EYES: none
+BODY: Brown jacket

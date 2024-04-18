@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: optimism
+HEAD: Mario cap
+EYES: Professor
+BODY: Goth t-shirt

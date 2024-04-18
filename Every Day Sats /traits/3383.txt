@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: depression
+HEAD: French Beret
+EYES: X
+BODY: Prada suit

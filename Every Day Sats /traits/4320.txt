@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: optimism
+HEAD: Purple cap
+EYES: Mog
+BODY: Matrix Trenchcoat

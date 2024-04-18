@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: hope
+HEAD: Bucket hat
+EYES: none
+BODY: None

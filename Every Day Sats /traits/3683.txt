@@ -1,0 +1,5 @@
+TYPE: Golden Bull
+EMOTIONS: hope
+HEAD: None
+EYES: Deal with it
+BODY: Gary suit

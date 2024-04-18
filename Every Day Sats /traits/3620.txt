@@ -1,0 +1,5 @@
+TYPE: KevinChang
+EMOTIONS: none
+HEAD: Bucket hat
+EYES: Mog
+BODY: Matrix Trenchcoat

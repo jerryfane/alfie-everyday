@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: BDSM hat
+EYES: Professor
+BODY: Moncler Jacket

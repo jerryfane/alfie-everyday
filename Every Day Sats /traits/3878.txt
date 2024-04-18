@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: hope
+HEAD: Beanie cap
+EYES: none
+BODY: Black turtleneck

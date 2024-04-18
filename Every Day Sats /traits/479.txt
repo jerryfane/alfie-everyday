@@ -1,0 +1,5 @@
+TYPE: Ponzi Promoter
+EMOTIONS: hope
+HEAD: none
+EYES: none
+BODY: none

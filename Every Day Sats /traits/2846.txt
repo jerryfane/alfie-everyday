@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: hope
+HEAD: none
+EYES: Degen
+BODY: Hawaiian shirt

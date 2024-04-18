@@ -1,0 +1,5 @@
+TYPE: KevinChang
+EMOTIONS: none
+HEAD: Tinfoil hat
+EYES: None
+BODY: Vitalik tee

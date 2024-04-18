@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: optimism
+HEAD: none
+EYES: None
+BODY: Kimono

@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: hope
+HEAD: MAGA cap
+EYES: Mog
+BODY: Gary suit

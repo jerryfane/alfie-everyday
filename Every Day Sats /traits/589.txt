@@ -1,0 +1,5 @@
+TYPE: Persian Cat
+EMOTIONS: none
+HEAD: French Beret
+EYES: none
+BODY: Gary suit

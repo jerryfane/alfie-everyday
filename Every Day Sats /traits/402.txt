@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: hope
+HEAD: Blue hat
+EYES: None
+BODY: Goth t-shirt

@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: anger
+HEAD: Beanie cap
+EYES: Degen
+BODY: Blue turtleneck

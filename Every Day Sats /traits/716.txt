@@ -1,0 +1,5 @@
+TYPE: Bitcoin Bull
+EMOTIONS: hope
+HEAD: Supreme hat
+EYES: Mog
+BODY: Racing jacket

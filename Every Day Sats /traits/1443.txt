@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: depression
+HEAD: Rise farmer hat
+EYES: Degen
+BODY: Matrix Trenchcoat

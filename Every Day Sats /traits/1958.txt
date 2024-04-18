@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: euphoria
+HEAD: None
+EYES: Deal with it
+BODY: Red hoodie

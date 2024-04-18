@@ -1,0 +1,5 @@
+TYPE: Junkie
+EMOTIONS: optimism
+HEAD: Junkie hat
+EYES: None
+BODY: Junkie jacket

@@ -1,0 +1,5 @@
+TYPE: Ponzi Presenter
+EMOTIONS: anger
+HEAD: Blue hat
+EYES: Professor
+BODY: Iron Man

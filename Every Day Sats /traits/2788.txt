@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: anger
+HEAD: French Beret
+EYES: Degen
+BODY: Hawaiian shirt

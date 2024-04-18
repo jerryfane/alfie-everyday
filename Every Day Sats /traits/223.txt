@@ -1,0 +1,5 @@
+TYPE: North Korean Hacker
+EMOTIONS: none
+HEAD: Vietnam helmet
+EYES: none
+BODY: None

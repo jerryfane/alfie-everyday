@@ -1,0 +1,5 @@
+TYPE: KevinChang
+EMOTIONS: none
+HEAD: Mario cap
+EYES: Evil
+BODY: Nerd sweater

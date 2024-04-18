@@ -1,0 +1,5 @@
+TYPE: skeleton
+EMOTIONS: none
+HEAD: McD cap
+EYES: Professor
+BODY: none

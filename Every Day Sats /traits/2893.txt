@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: optimism
+HEAD: Cowboy hat
+EYES: Professor
+BODY: Prison jumpsuit

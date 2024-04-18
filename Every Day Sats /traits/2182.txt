@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: optimism
+HEAD: Wizard hat
+EYES: None
+BODY: Purple t-shirt

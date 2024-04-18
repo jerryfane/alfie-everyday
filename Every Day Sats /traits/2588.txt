@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: optimism
+HEAD: North Korean hat
+EYES: X
+BODY: Black turtleneck

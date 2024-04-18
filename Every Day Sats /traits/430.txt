@@ -1,0 +1,5 @@
+TYPE: Machine
+EMOTIONS: none
+HEAD: Mexican Hat
+EYES: Deal with it
+BODY: Hawaiian shirt

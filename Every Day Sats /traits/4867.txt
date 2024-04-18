@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: euphoria
+HEAD: Captain hat
+EYES: Mog
+BODY: Gun holster

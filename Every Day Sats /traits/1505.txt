@@ -1,0 +1,5 @@
+TYPE: Ponzi Promoter
+EMOTIONS: anger
+HEAD: None
+EYES: Mog
+BODY: Hawaiian shirt

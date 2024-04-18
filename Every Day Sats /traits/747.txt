@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: hope
+HEAD: Heisenberg hat
+EYES: Deal with it
+BODY: Matrix Trenchcoat

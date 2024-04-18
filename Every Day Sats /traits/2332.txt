@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: hope
+HEAD: French Beret
+EYES: Professor
+BODY: None

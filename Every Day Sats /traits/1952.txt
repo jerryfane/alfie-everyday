@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: optimism
+HEAD: none
+EYES: Bitcoin
+BODY: Red hoodie

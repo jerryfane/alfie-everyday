@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: optimism
+HEAD: none
+EYES: Bitcoin
+BODY: Red hoodie

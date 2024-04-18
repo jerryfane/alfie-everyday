@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: optimism
+HEAD: Blue hat
+EYES: Mog
+BODY: Moncler Jacket

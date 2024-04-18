@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: hope
+HEAD: Red hat
+EYES: Professor
+BODY: Gun holster

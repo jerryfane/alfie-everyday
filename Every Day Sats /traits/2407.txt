@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: optimism
+HEAD: Cowboy hat
+EYES: None
+BODY: Black t-shirt

@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: hope
+HEAD: Supreme hat
+EYES: Aviator
+BODY: Prison jumpsuit

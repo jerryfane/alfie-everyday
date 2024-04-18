@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: euphoria
+HEAD: Bitcoin cap
+EYES: Degen
+BODY: None

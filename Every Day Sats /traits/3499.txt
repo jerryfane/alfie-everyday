@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: optimism
+HEAD: none
+EYES: Future
+BODY: Matrix Trenchcoat

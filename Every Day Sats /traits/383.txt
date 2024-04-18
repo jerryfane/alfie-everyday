@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: hope
+HEAD: Beanie cap
+EYES: Nerd
+BODY: Kimono

@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: euphoria
+HEAD: Gamer headset
+EYES: none
+BODY: Hawaiian shirt

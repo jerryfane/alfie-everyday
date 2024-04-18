@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: optimism
+HEAD: North Korean hat
+EYES: Nuked
+BODY: none

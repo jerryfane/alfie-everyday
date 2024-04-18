@@ -1,0 +1,5 @@
+TYPE: Igor Bogdanoff
+EMOTIONS: optimism
+HEAD: Supreme hat
+EYES: Professor
+BODY: White t-shirt

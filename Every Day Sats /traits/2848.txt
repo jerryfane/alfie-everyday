@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: depression
+HEAD: Supreme hat
+EYES: Professor
+BODY: Green blazer

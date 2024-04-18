@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: optimism
+HEAD: Supreme hat
+EYES: Degen
+BODY: Prada suit

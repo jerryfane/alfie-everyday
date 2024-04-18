@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: optimism
+HEAD: none
+EYES: Degen
+BODY: Green blazer

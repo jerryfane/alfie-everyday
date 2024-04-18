@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: hope
+HEAD: Captain hat
+EYES: Professor
+BODY: Pink pimp coat_

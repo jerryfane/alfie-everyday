@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: optimism
+HEAD: Royal Crown
+EYES: Elvis
+BODY: Racing jacket

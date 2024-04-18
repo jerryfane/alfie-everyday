@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: euphoria
+HEAD: Mario cap
+EYES: Professor
+BODY: Black turtleneck

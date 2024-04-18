@@ -1,0 +1,5 @@
+TYPE: Bitcoin Bull
+EMOTIONS: optimism
+HEAD: Mario cap
+EYES: None
+BODY: Orange pimp coat_

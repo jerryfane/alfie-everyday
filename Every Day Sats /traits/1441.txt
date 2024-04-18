@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: Cowboy hat
+EYES: Mog
+BODY: Moncler Jacket

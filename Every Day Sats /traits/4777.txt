@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: depression
+HEAD: Supreme hat
+EYES: None
+BODY: Tank top

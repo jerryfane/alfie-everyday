@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: optimism
+HEAD: Bitcoin cap
+EYES: Deal with it
+BODY: Black turtleneck

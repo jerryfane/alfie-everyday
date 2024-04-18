@@ -1,0 +1,5 @@
+TYPE: KevinChang
+EMOTIONS: none
+HEAD: Royal Crown
+EYES: Bitcoin
+BODY: Prison jumpsuit

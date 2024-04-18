@@ -1,0 +1,5 @@
+TYPE: Smudge the Cat
+EMOTIONS: none
+HEAD: none
+EYES: Lasereyes
+BODY: none

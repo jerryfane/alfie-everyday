@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: euphoria
+HEAD: Chef’s hat
+EYES: Nouns
+BODY: Moncler Jacket

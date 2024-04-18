@@ -1,0 +1,5 @@
+TYPE: Ponzi Presenter
+EMOTIONS: anger
+HEAD: Blue hat
+EYES: none
+BODY: Prison jumpsuit

@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: hope
+HEAD: None
+EYES: Black raybans
+BODY: Racing jacket

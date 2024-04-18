@@ -1,0 +1,5 @@
+TYPE: Doomer Girl
+EMOTIONS: hope
+HEAD: Farmer hat
+EYES: Nuked
+BODY: Farmer shirt

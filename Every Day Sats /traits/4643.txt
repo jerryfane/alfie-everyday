@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: euphoria
+HEAD: Mario cap
+EYES: Degen
+BODY: Green blazer

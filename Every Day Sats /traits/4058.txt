@@ -1,0 +1,5 @@
+TYPE: PTSD Soldier
+EMOTIONS: none
+HEAD: Vietnam helmet
+EYES: None
+BODY: Prison jumpsuit

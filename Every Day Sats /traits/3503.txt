@@ -1,0 +1,5 @@
+TYPE: Pepe Girl
+EMOTIONS: hope
+HEAD: Mexican Hat
+EYES: Elvis
+BODY: Green blazer

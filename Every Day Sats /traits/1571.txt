@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: hope
+HEAD: Mexican Hat
+EYES: Fisher
+BODY: None

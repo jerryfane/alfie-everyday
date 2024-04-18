@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: hope
+HEAD: Wizard hat
+EYES: none
+BODY: Trad dress

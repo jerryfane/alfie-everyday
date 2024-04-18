@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: optimism
+HEAD: Red hat
+EYES: Degen
+BODY: Orange pimp coat_

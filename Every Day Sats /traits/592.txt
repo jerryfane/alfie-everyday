@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: optimism
+HEAD: Wif hat
+EYES: Deal with it
+BODY: Pink pimp coat_

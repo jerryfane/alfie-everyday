@@ -1,0 +1,5 @@
+TYPE: Classic nerd
+EMOTIONS: anger
+HEAD: Captain hat
+EYES: none
+BODY: Brown jacket

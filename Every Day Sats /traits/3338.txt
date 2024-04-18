@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: optimism
+HEAD: Royal Crown
+EYES: Degen
+BODY: Moncler Jacket

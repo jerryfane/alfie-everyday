@@ -1,0 +1,5 @@
+TYPE: Dorian Nakamoto
+EMOTIONS: optimism
+HEAD: None
+EYES: Nakamoto glasses
+BODY: Black hoodie

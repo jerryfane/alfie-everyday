@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: optimism
+HEAD: McD cap
+EYES: Professor
+BODY: Black turtleneck

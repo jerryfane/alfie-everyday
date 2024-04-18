@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: hope
+HEAD: none
+EYES: Bitcoin
+BODY: Black hoodie

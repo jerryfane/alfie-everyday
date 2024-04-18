@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: depression
+HEAD: none
+EYES: Mog
+BODY: Iron Man

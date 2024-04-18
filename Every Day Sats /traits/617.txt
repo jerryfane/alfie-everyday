@@ -1,0 +1,5 @@
+TYPE: Pepe Girl
+EMOTIONS: euphoria
+HEAD: Chef’s hat
+EYES: Bitcoin
+BODY: None

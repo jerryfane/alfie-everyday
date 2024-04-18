@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: depression
+HEAD: none
+EYES: Aviator
+BODY: Black hoodie

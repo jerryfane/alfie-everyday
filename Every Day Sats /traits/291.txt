@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: optimism
+HEAD: McD cap
+EYES: none
+BODY: Green turtleneck

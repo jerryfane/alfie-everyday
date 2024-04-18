@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: optimism
+HEAD: Mario cap
+EYES: Nouns
+BODY: drug dealer pullover

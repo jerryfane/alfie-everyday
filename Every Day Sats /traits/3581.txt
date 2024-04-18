@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: euphoria
+HEAD: North Korean hat
+EYES: none
+BODY: Matrix Trenchcoat

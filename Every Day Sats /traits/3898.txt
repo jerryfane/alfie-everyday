@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: euphoria
+HEAD: Beanie cap
+EYES: Degen
+BODY: None

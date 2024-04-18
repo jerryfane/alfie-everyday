@@ -1,0 +1,5 @@
+TYPE: Igor Bogdanoff
+EMOTIONS: euphoria
+HEAD: Cowboy hat
+EYES: Lasereyes
+BODY: Gary suit

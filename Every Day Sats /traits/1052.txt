@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: depression
+HEAD: Red hat
+EYES: Degen
+BODY: Orange pimp coat_

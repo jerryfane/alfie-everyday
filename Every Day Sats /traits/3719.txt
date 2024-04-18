@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: euphoria
+HEAD: Gamer headset
+EYES: Professor
+BODY: None

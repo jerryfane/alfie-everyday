@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: anger
+HEAD: MAGA cap
+EYES: Mog
+BODY: Black turtleneck

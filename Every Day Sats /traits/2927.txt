@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: anger
+HEAD: Red hat
+EYES: Professor
+BODY: None

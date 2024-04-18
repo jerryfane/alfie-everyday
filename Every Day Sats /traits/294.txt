@@ -1,0 +1,5 @@
+TYPE: Office Guy
+EMOTIONS: none
+HEAD: Cowboy hat
+EYES: None
+BODY: 9 to 5 shirt

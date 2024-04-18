@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: hope
+HEAD: Beanie cap
+EYES: Guy Fawkes mask
+BODY: Prada suit

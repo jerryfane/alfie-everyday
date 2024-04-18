@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: optimism
+HEAD: Farmer hat
+EYES: Mog
+BODY: Farmer shirt

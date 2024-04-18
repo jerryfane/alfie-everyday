@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: anger
+HEAD: McD cap
+EYES: Future
+BODY: Prada suit

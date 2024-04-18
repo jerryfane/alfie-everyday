@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: anger
+HEAD: French Beret
+EYES: Professor
+BODY: Nerd sweater

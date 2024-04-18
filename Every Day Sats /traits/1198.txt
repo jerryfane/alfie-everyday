@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: depression
+HEAD: Purple cap
+EYES: Bitcoin
+BODY: Pink pimp coat_

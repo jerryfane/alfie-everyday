@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: euphoria
+HEAD: Wizard hat
+EYES: Gaga
+BODY: Pink pimp coat_

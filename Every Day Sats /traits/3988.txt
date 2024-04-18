@@ -1,0 +1,5 @@
+TYPE: Ginger nerd
+EMOTIONS: hope
+HEAD: Farmer hat
+EYES: none
+BODY: Farmer shirt

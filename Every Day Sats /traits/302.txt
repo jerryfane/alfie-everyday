@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: anger
+HEAD: Gamer headset
+EYES: None
+BODY: Black turtleneck

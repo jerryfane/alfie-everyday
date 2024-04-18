@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: euphoria
+HEAD: none
+EYES: Mog
+BODY: Kimono

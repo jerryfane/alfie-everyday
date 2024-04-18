@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: euphoria
+HEAD: Gamer headset
+EYES: Black raybans
+BODY: Gary suit

@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: optimism
+HEAD: Rise farmer hat
+EYES: Professor
+BODY: Green blazer

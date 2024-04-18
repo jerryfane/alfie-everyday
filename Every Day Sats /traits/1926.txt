@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: euphoria
+HEAD: North Korean hat
+EYES: Degen
+BODY: Prada suit

@@ -1,0 +1,5 @@
+TYPE: Machine
+EMOTIONS: none
+HEAD: Toxedo hat
+EYES: none
+BODY: Toxedo

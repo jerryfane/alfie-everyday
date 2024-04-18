@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: depression
+HEAD: none
+EYES: None
+BODY: Gun holster

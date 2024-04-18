@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: none
+EYES: Nouns
+BODY: Moncler Jacket

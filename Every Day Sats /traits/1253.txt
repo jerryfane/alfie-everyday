@@ -1,0 +1,5 @@
+TYPE: Dorian Nakamoto
+EMOTIONS: optimism
+HEAD: Chef’s hat
+EYES: Bitcoin
+BODY: Black Chef’s jacket

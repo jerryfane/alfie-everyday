@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: anger
+HEAD: None
+EYES: Apple Vision Pro
+BODY: none

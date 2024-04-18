@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: optimism
+HEAD: North Korean hat
+EYES: Nuked
+BODY: None

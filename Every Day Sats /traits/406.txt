@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: hope
+HEAD: Beanie cap
+EYES: Professor
+BODY: Matrix Trenchcoat

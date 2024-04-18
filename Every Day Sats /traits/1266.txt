@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: optimism
+HEAD: Bitcoin cap
+EYES: Lasereyes
+BODY: none

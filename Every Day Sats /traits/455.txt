@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: anger
+HEAD: Mario cap
+EYES: Professor
+BODY: Black turtleneck

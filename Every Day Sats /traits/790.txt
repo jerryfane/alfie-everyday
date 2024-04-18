@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: hope
+HEAD: Mario cap
+EYES: Elvis
+BODY: Moncler Jacket

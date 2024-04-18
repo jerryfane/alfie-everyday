@@ -1,0 +1,5 @@
+TYPE: Igor Bogdanoff
+EMOTIONS: depression
+HEAD: none
+EYES: none
+BODY: none

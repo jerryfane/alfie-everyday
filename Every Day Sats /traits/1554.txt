@@ -1,0 +1,5 @@
+TYPE: PTSD Dog
+EMOTIONS: none
+HEAD: Wizard hat
+EYES: Bitcoin
+BODY: none

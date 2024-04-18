@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: optimism
+HEAD: Red hat
+EYES: Mog
+BODY: Racing jacket

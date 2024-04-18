@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: anger
+HEAD: None
+EYES: None
+BODY: Hawaiian shirt

@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: depression
+HEAD: Rise farmer hat
+EYES: Professor
+BODY: White t-shirt

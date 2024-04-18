@@ -1,0 +1,5 @@
+TYPE: Doomer Girl
+EMOTIONS: depression
+HEAD: Captain hat
+EYES: None
+BODY: Hawaiian shirt

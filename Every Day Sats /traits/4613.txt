@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: hope
+HEAD: Mexican Hat
+EYES: Mog
+BODY: Brown jacket

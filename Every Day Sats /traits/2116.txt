@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: depression
+HEAD: Vietnam helmet
+EYES: None
+BODY: Vitalik tee

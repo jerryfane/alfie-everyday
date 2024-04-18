@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: optimism
+HEAD: Gamer headset
+EYES: none
+BODY: Kimono

@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: euphoria
+HEAD: Vietnam helmet
+EYES: Mog
+BODY: Prada suit

@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: anger
+HEAD: Farmer hat
+EYES: Nouns
+BODY: Farmer shirt

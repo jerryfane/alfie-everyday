@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: euphoria
+HEAD: Red hat
+EYES: Degen
+BODY: Racing jacket

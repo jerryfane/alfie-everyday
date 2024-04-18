@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: Captain hat
+EYES: Nuked
+BODY: Matrix Trenchcoat

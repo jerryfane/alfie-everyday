@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: optimism
+HEAD: BDSM hat
+EYES: Nouns
+BODY: Matrix Trenchcoat

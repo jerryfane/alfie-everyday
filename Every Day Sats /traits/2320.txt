@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: optimism
+HEAD: none
+EYES: None
+BODY: Kimono

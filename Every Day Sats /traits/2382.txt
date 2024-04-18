@@ -1,0 +1,5 @@
+TYPE: Clown
+EMOTIONS: depression
+HEAD: Red hat
+EYES: Bitcoin
+BODY: Prison jumpsuit

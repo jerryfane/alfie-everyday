@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: hope
+HEAD: None
+EYES: None
+BODY: Pizza jumpsuit

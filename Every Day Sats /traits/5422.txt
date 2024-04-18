@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: Blue hat
+EYES: none
+BODY: Black turtleneck

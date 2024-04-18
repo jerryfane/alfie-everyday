@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: euphoria
+HEAD: none
+EYES: none
+BODY: Orange pill suit

@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: euphoria
+HEAD: Chef’s hat
+EYES: none
+BODY: Blue turtleneck

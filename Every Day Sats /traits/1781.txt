@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: optimism
+HEAD: Tinfoil hat
+EYES: None
+BODY: Prada suit

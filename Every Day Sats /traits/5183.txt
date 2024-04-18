@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: depression
+HEAD: BDSM hat
+EYES: None
+BODY: Green blazer

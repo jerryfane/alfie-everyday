@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: anger
+HEAD: French Beret
+EYES: Nouns
+BODY: Black t-shirt

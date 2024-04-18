@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: optimism
+HEAD: Gamer headset
+EYES: None
+BODY: None

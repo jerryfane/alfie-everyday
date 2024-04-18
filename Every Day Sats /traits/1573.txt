@@ -1,0 +1,5 @@
+TYPE: Pepe Girl
+EMOTIONS: hope
+HEAD: Mario cap
+EYES: None
+BODY: Matrix Trenchcoat

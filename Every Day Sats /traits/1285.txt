@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: euphoria
+HEAD: BDSM hat
+EYES: Nuked
+BODY: Matrix Trenchcoat

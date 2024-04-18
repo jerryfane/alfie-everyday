@@ -1,0 +1,5 @@
+TYPE: Golden Bull
+EMOTIONS: anger
+HEAD: none
+EYES: Gaga
+BODY: Hawaiian shirt

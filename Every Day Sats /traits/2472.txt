@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: euphoria
+HEAD: McD cap
+EYES: Mog
+BODY: Black turtleneck

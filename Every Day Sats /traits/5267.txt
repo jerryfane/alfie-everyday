@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: optimism
+HEAD: Beanie cap
+EYES: none
+BODY: Cream turtleneck

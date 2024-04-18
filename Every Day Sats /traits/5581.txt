@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: hope
+HEAD: Wif hat
+EYES: None
+BODY: White t-shirt

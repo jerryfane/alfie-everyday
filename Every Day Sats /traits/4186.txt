@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: optimism
+HEAD: Red hat
+EYES: Nouns
+BODY: Stripe t-shirt

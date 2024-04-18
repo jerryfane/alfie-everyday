@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: euphoria
+HEAD: none
+EYES: Black raybans
+BODY: Pizza jumpsuit

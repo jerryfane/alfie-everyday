@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: Captain hat
+EYES: Nuked
+BODY: Green blazer

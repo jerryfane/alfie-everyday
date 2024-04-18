@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: optimism
+HEAD: Tinfoil hat
+EYES: Gaga
+BODY: Tank top

@@ -1,0 +1,5 @@
+TYPE: Captain Now
+EMOTIONS: none
+HEAD: BDSM hat
+EYES: None
+BODY: None

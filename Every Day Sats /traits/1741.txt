@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: euphoria
+HEAD: Gamer headset
+EYES: Degen
+BODY: None

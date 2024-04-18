@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: optimism
+HEAD: Heisenberg hat
+EYES: Degen
+BODY: Matrix Trenchcoat

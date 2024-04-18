@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: euphoria
+HEAD: Supreme hat
+EYES: Bitcoin
+BODY: Prada suit

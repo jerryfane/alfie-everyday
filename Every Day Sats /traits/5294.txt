@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: optimism
+HEAD: Cowboy hat
+EYES: Degen
+BODY: Black t-shirt

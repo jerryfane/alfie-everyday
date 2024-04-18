@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: anger
+HEAD: Farmer hat
+EYES: none
+BODY: Farmer shirt

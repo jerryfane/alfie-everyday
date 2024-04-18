@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: depression
+HEAD: Beanie cap
+EYES: None
+BODY: None

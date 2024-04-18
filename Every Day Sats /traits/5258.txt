@@ -1,0 +1,5 @@
+TYPE: skeleton
+EMOTIONS: none
+HEAD: None
+EYES: Lasereyes
+BODY: Vitalik tee

@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: hope
+HEAD: MAGA cap
+EYES: Lasereyes
+BODY: Iron Man

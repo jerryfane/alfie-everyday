@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: hope
+HEAD: Royal Crown
+EYES: Fisher
+BODY: Moncler Jacket

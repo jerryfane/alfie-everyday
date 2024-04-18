@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: optimism
+HEAD: Captain hat
+EYES: None
+BODY: Blue turtleneck

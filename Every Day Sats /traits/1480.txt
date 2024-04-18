@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: euphoria
+HEAD: Toxedo hat
+EYES: Lasereyes
+BODY: Toxedo

@@ -1,0 +1,5 @@
+TYPE: Dorian Nakamoto
+EMOTIONS: optimism
+HEAD: Bitcoin cap
+EYES: Aviator
+BODY: None

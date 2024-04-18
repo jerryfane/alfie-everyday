@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: euphoria
+HEAD: Captain hat
+EYES: none
+BODY: None

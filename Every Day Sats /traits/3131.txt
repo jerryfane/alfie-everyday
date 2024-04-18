@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: optimism
+HEAD: None
+EYES: Fisher
+BODY: Space suit

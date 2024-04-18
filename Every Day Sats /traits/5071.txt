@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: optimism
+HEAD: Wizard hat
+EYES: none
+BODY: White pimp coat_

@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: anger
+HEAD: Chef’s hat
+EYES: none
+BODY: Cream jacket

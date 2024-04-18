@@ -1,0 +1,5 @@
+TYPE: PTSD Dog
+EMOTIONS: none
+HEAD: Royal Crown
+EYES: Black raybans
+BODY: none

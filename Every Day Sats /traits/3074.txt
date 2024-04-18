@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: euphoria
+HEAD: Cowboy hat
+EYES: Lasereyes
+BODY: Goth t-shirt

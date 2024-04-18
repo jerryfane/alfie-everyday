@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: anger
+HEAD: none
+EYES: Professor
+BODY: Matrix Trenchcoat

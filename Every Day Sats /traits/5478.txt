@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: depression
+HEAD: Supreme hat
+EYES: Professor
+BODY: Green blazer

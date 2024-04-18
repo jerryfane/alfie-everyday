@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: euphoria
+HEAD: Mario cap
+EYES: Deal with it
+BODY: Matrix Trenchcoat

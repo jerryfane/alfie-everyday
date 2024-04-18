@@ -1,0 +1,5 @@
+TYPE: Ponzi Presenter
+EMOTIONS: depression
+HEAD: Cowboy hat
+EYES: Aviator
+BODY: Gary suit

@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: euphoria
+HEAD: French Beret
+EYES: Black raybans
+BODY: None

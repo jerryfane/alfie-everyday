@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: French Beret
+EYES: Professor
+BODY: None

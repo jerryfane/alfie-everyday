@@ -1,0 +1,5 @@
+TYPE: Junkie
+EMOTIONS: anger
+HEAD: Junkie hat
+EYES: none
+BODY: Junkie jacket

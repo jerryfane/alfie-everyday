@@ -1,0 +1,5 @@
+TYPE: Persian Cat
+EMOTIONS: none
+HEAD: Blue hat
+EYES: None
+BODY: Gun holster

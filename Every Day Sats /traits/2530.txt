@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: anger
+HEAD: BDSM hat
+EYES: Black raybans
+BODY: Black turtleneck

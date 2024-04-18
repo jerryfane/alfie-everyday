@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: depression
+HEAD: None
+EYES: Mog
+BODY: Prison jumpsuit

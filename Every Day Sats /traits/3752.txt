@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: anger
+HEAD: Chef’s hat
+EYES: none
+BODY: Stripe t-shirt

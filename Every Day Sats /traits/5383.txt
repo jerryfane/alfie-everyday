@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: optimism
+HEAD: MAGA cap
+EYES: none
+BODY: Goth t-shirt

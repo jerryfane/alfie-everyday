@@ -1,0 +1,5 @@
+TYPE: Captain Now
+EMOTIONS: none
+HEAD: Cowboy hat
+EYES: Degen
+BODY: Gun holster

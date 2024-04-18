@@ -1,0 +1,5 @@
+TYPE: Stoned Fox
+EMOTIONS: none
+HEAD: Blue hat
+EYES: none
+BODY: Black t-shirt

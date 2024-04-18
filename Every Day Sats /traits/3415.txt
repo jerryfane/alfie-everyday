@@ -1,0 +1,5 @@
+TYPE: KevinChang
+EMOTIONS: none
+HEAD: none
+EYES: Evil
+BODY: Gun holster

@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: anger
+HEAD: Mario cap
+EYES: Degen
+BODY: Nerd sweater

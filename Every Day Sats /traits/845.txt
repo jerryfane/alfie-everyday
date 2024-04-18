@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: euphoria
+HEAD: Tinfoil hat
+EYES: None
+BODY: Tank top

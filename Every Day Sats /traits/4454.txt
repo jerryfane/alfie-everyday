@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: optimism
+HEAD: Captain hat
+EYES: Mog
+BODY: Gun holster

@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: Red hat
+EYES: Professor
+BODY: White t-shirt

@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: euphoria
+HEAD: McD cap
+EYES: None
+BODY: Prada suit

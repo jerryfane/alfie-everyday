@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: anger
+HEAD: Mexican Hat
+EYES: Deal with it
+BODY: Matrix Trenchcoat

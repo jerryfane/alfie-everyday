@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: hope
+HEAD: Red hat
+EYES: Fisher
+BODY: Trad dress

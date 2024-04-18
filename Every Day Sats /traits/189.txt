@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: hope
+HEAD: Blue hat
+EYES: None
+BODY: Hawaiian shirt

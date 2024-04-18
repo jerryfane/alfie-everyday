@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: euphoria
+HEAD: Bucket hat
+EYES: Gaga
+BODY: Gary suit

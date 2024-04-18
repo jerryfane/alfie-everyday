@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: depression
+HEAD: None
+EYES: Mog
+BODY: Kimono

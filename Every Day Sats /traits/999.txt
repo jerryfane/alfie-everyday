@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: hope
+HEAD: French Beret
+EYES: Professor
+BODY: Cream turtleneck

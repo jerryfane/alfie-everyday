@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: optimism
+HEAD: North Korean hat
+EYES: Mog
+BODY: None

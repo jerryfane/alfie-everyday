@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: hope
+HEAD: Rise farmer hat
+EYES: Degen
+BODY: Prada suit

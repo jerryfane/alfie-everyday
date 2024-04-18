@@ -1,0 +1,5 @@
+TYPE: Ponzi Promoter
+EMOTIONS: hope
+HEAD: Cowboy hat
+EYES: Mog
+BODY: Gary suit

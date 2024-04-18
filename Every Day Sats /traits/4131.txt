@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: euphoria
+HEAD: Purple cap
+EYES: Gaga
+BODY: Vitalik tee

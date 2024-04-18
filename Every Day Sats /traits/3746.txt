@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: euphoria
+HEAD: None
+EYES: Future
+BODY: Matrix Trenchcoat

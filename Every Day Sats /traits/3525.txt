@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: euphoria
+HEAD: none
+EYES: None
+BODY: Hawaiian shirt

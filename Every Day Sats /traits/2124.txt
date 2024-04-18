@@ -1,0 +1,5 @@
+TYPE: Pepe Girl
+EMOTIONS: optimism
+HEAD: Bitcoin cap
+EYES: Mog
+BODY: None

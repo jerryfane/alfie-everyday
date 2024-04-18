@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: optimism
+HEAD: Mario cap
+EYES: Mog
+BODY: Black turtleneck

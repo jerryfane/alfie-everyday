@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: depression
+HEAD: None
+EYES: Mog
+BODY: Prison jumpsuit

@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: optimism
+HEAD: Bitcoin cap
+EYES: None
+BODY: Hawaiian shirt

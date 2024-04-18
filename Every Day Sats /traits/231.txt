@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: hope
+HEAD: McD cap
+EYES: Nuked
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: euphoria
+HEAD: McD cap
+EYES: None
+BODY: Orange pimp coat_

@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: hope
+HEAD: none
+EYES: Degen
+BODY: Red hoodie

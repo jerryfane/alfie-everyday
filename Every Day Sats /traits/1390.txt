@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: anger
+HEAD: Gamer headset
+EYES: Bitcoin
+BODY: Gary suit

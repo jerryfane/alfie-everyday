@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: hope
+HEAD: Gran Autismo cap
+EYES: X
+BODY: None

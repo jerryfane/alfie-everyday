@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: optimism
+HEAD: Captain hat
+EYES: Bitcoin
+BODY: Black turtleneck

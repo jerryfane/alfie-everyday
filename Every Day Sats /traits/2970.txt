@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: anger
+HEAD: Mexican Hat
+EYES: none
+BODY: Matrix Trenchcoat

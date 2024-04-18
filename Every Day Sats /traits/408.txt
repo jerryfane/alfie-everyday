@@ -1,0 +1,5 @@
+TYPE: Ponzi Presenter
+EMOTIONS: optimism
+HEAD: Bucket hat
+EYES: Aviator
+BODY: Gary suit

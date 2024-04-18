@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: optimism
+HEAD: MAGA cap
+EYES: None
+BODY: Gary suit

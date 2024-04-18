@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: hope
+HEAD: Heisenberg hat
+EYES: Aviator
+BODY: Hawaiian shirt

@@ -1,0 +1,5 @@
+TYPE: Golden Bull
+EMOTIONS: hope
+HEAD: none
+EYES: Mog
+BODY: Gun holster

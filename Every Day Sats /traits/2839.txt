@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: anger
+HEAD: McD cap
+EYES: Degen
+BODY: Hawaiian shirt

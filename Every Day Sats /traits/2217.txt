@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: optimism
+HEAD: Chef’s hat
+EYES: Degen
+BODY: Black turtleneck

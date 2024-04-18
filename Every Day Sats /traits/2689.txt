@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: anger
+HEAD: Red hat
+EYES: Bitcoin
+BODY: Moncler Jacket

@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: euphoria
+HEAD: Wif hat
+EYES: None
+BODY: Prada suit

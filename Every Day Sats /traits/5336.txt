@@ -1,0 +1,5 @@
+TYPE: Bitcoin Bull
+EMOTIONS: optimism
+HEAD: McD cap
+EYES: none
+BODY: Black Chef’s jacket

@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: hope
+HEAD: none
+EYES: Professor
+BODY: Pink pimp coat_

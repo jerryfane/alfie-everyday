@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: optimism
+HEAD: Supreme hat
+EYES: None
+BODY: Trad dress

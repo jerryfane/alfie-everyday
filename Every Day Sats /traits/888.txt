@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: hope
+HEAD: Red hat
+EYES: Professor
+BODY: Gary suit

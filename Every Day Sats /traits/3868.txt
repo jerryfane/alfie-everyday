@@ -1,0 +1,5 @@
+TYPE: Office Guy
+EMOTIONS: none
+HEAD: Captain hat
+EYES: None
+BODY: Gun holster

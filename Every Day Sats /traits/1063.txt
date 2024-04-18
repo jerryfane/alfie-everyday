@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: anger
+HEAD: Supreme hat
+EYES: none
+BODY: Prada suit

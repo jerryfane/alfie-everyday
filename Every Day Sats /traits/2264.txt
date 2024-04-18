@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: optimism
+HEAD: Chef’s hat
+EYES: Future
+BODY: Hawaiian shirt

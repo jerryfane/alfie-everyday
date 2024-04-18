@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: hope
+HEAD: Vietnam helmet
+EYES: Guy Fawkes mask
+BODY: Hawaiian shirt

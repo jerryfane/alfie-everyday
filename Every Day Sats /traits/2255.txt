@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: euphoria
+HEAD: FBI
+EYES: FBI
+BODY: FBI

@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: anger
+HEAD: McD cap
+EYES: Black raybans
+BODY: Matrix Trenchcoat

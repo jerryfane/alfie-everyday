@@ -1,0 +1,5 @@
+TYPE: Office Guy
+EMOTIONS: none
+HEAD: Bitcoin cap
+EYES: None
+BODY: Brown jacket

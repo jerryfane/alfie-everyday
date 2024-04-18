@@ -1,0 +1,5 @@
+TYPE: Ponzi Promoter
+EMOTIONS: euphoria
+HEAD: none
+EYES: Mog
+BODY: Kimono

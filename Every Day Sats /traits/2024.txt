@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: Gamer headset
+EYES: Mog
+BODY: Hawaiian shirt

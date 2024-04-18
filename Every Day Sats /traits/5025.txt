@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: anger
+HEAD: Captain hat
+EYES: Mog
+BODY: Matrix Trenchcoat

@@ -1,0 +1,5 @@
+TYPE: E Girl
+EMOTIONS: anger
+HEAD: French Beret
+EYES: Professor
+BODY: Prada suit

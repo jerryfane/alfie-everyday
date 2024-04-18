@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: anger
+HEAD: Gamer headset
+EYES: None
+BODY: Blue turtleneck

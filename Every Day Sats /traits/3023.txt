@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: optimism
+HEAD: Wif hat
+EYES: Lasereyes
+BODY: Vitalik tee

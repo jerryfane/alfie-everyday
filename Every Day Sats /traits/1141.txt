@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: anger
+HEAD: Supreme hat
+EYES: Fisher
+BODY: Moncler Jacket

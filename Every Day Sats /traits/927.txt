@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: Royal Crown
+EYES: None
+BODY: Nerd sweater

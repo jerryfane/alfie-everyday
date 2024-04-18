@@ -1,0 +1,5 @@
+TYPE: Office Guy
+EMOTIONS: none
+HEAD: Beanie cap
+EYES: None
+BODY: Cream jacket

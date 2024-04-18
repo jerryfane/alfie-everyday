@@ -1,0 +1,5 @@
+TYPE: Harold
+EMOTIONS: optimism
+HEAD: Gamer headset
+EYES: none
+BODY: Cream jacket

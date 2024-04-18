@@ -1,0 +1,5 @@
+TYPE: Ponzi Presenter
+EMOTIONS: optimism
+HEAD: Wizard hat
+EYES: Degen
+BODY: Vitalik tee

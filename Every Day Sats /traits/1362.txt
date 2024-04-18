@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: anger
+HEAD: Supreme hat
+EYES: Elvis
+BODY: Orange pimp coat_

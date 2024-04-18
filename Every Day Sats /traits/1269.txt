@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: anger
+HEAD: Vietnam helmet
+EYES: Professor
+BODY: White t-shirt

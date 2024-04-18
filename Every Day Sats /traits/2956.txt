@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: Vietnam helmet
+EYES: Black raybans
+BODY: Prison jumpsuit

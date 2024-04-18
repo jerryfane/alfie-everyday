@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: anger
+HEAD: Bitcoin cap
+EYES: None
+BODY: None

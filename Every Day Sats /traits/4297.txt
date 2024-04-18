@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: None
+EYES: Lasereyes
+BODY: White pimp coat_

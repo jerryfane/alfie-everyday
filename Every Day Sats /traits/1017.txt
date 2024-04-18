@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: depression
+HEAD: Captain hat
+EYES: None
+BODY: Black turtleneck

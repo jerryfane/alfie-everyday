@@ -1,0 +1,5 @@
+TYPE: Clown
+EMOTIONS: euphoria
+HEAD: Red hat
+EYES: Bitcoin
+BODY: Orange pimp coat_

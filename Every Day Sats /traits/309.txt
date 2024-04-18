@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: euphoria
+HEAD: Rise farmer hat
+EYES: Professor
+BODY: None

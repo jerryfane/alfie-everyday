@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: optimism
+HEAD: Red hat
+EYES: none
+BODY: None

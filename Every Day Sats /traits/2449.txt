@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: anger
+HEAD: McD cap
+EYES: Aviator
+BODY: Moncler Jacket

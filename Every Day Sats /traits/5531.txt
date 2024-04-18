@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: anger
+HEAD: Heisenberg hat
+EYES: Professor
+BODY: None

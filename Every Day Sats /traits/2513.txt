@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: optimism
+HEAD: None
+EYES: Elvis
+BODY: White pimp coat_

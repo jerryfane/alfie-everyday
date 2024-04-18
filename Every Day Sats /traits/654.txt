@@ -1,0 +1,5 @@
+TYPE: North Korean Hacker
+EMOTIONS: none
+HEAD: FBI
+EYES: FBI
+BODY: FBI

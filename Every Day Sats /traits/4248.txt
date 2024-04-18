@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: Vietnam helmet
+EYES: Elvis
+BODY: White t-shirt

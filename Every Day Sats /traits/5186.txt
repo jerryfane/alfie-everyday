@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: optimism
+HEAD: Vietnam helmet
+EYES: None
+BODY: Prison jumpsuit

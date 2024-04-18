@@ -1,0 +1,5 @@
+TYPE: Golden Bull
+EMOTIONS: optimism
+HEAD: None
+EYES: Gaga
+BODY: Matrix Trenchcoat

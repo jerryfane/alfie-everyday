@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: depression
+HEAD: Cowboy hat
+EYES: Mog
+BODY: Cream jacket

@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: optimism
+HEAD: BDSM hat
+EYES: Professor
+BODY: Gun holster

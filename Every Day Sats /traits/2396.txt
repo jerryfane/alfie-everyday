@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: anger
+HEAD: Red hat
+EYES: Degen
+BODY: Prison jumpsuit

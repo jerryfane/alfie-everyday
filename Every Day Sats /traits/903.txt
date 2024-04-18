@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: anger
+HEAD: Chef’s hat
+EYES: None
+BODY: Black turtleneck

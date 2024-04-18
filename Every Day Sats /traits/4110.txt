@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: depression
+HEAD: Beanie cap
+EYES: Degen
+BODY: none

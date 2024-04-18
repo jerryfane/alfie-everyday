@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: euphoria
+HEAD: Gamer headset
+EYES: Future
+BODY: Hawaiian shirt

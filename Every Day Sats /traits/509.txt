@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: anger
+HEAD: Tinfoil hat
+EYES: Professor
+BODY: White pimp coat_

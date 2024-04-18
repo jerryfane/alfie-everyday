@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: anger
+HEAD: BDSM hat
+EYES: Degen
+BODY: none

@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: optimism
+HEAD: Royal Crown
+EYES: Bitcoin
+BODY: Racing jacket

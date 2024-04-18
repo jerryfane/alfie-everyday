@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: depression
+HEAD: Supreme hat
+EYES: Mog
+BODY: White pimp coat_

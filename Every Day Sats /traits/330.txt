@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: depression
+HEAD: Red hat
+EYES: Nouns
+BODY: Racing jacket

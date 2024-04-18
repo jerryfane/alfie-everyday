@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: euphoria
+HEAD: Mario cap
+EYES: none
+BODY: Iron Man

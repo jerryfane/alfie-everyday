@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: anger
+HEAD: Gran Autismo cap
+EYES: Degen
+BODY: None

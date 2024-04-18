@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: anger
+HEAD: none
+EYES: Degen
+BODY: Goth t-shirt

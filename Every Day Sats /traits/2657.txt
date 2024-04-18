@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: depression
+HEAD: French Beret
+EYES: None
+BODY: Blue turtleneck

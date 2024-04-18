@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: euphoria
+HEAD: Wizard hat
+EYES: Black raybans
+BODY: Vitalik tee

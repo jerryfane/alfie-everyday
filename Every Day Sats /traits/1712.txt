@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: French Beret
+EYES: Degen
+BODY: Black t-shirt

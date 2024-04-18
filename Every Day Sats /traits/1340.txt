@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: anger
+HEAD: North Korean hat
+EYES: None
+BODY: Prada suit

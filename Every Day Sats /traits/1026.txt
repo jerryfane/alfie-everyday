@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: depression
+HEAD: Bucket hat
+EYES: Bitcoin
+BODY: Black turtleneck

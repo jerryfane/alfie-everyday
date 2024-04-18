@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: optimism
+HEAD: Purple cap
+EYES: Degen
+BODY: Prison jumpsuit

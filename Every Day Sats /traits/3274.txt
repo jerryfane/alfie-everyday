@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: euphoria
+HEAD: Chef’s hat
+EYES: none
+BODY: Black turtleneck

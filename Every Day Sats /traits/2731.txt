@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: euphoria
+HEAD: MAGA cap
+EYES: Nuked
+BODY: Brown jacket

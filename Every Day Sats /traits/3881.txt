@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: euphoria
+HEAD: Purple cap
+EYES: Fisher
+BODY: Racing jacket

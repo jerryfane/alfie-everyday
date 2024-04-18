@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: anger
+HEAD: Beanie cap
+EYES: Elvis
+BODY: Brown jacket

@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: hope
+HEAD: North Korean hat
+EYES: Nuked
+BODY: None

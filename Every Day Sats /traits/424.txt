@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: optimism
+HEAD: Supreme hat
+EYES: Professor
+BODY: White pimp coat_

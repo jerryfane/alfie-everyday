@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: depression
+HEAD: Bitcoin cap
+EYES: None
+BODY: Brown jacket

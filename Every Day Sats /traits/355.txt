@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: euphoria
+HEAD: MAGA cap
+EYES: Black raybans
+BODY: Lifebuoy

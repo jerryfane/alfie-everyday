@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: hope
+HEAD: Chef’s hat
+EYES: Future
+BODY: Blue turtleneck

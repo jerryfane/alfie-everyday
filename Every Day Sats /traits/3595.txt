@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: Heisenberg hat
+EYES: Black raybans
+BODY: Matrix Trenchcoat

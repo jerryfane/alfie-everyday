@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: optimism
+HEAD: none
+EYES: Degen
+BODY: Peng suit

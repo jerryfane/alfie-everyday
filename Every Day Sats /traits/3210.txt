@@ -1,0 +1,5 @@
+TYPE: Golden Bull
+EMOTIONS: anger
+HEAD: None
+EYES: Fisher
+BODY: Gun holster

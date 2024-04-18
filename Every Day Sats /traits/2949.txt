@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: euphoria
+HEAD: Bitcoin cap
+EYES: None
+BODY: None

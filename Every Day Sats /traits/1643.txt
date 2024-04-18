@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: anger
+HEAD: Mario cap
+EYES: Degen
+BODY: Green blazer

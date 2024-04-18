@@ -1,0 +1,5 @@
+TYPE: Persian Cat
+EMOTIONS: none
+HEAD: Captain hat
+EYES: none
+BODY: Brown jacket

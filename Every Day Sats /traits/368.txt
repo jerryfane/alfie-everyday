@@ -1,0 +1,5 @@
+TYPE: Pepe Girl
+EMOTIONS: euphoria
+HEAD: Beanie cap
+EYES: None
+BODY: Cream turtleneck

@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: depression
+HEAD: Wizard hat
+EYES: Nuked
+BODY: Prison jumpsuit

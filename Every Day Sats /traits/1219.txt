@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: depression
+HEAD: McD cap
+EYES: Degen
+BODY: Matrix Trenchcoat

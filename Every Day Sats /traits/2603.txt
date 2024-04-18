@@ -1,0 +1,5 @@
+TYPE: Office Guy
+EMOTIONS: none
+HEAD: North Korean hat
+EYES: None
+BODY: Prada suit

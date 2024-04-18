@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: optimism
+HEAD: BDSM hat
+EYES: None
+BODY: Hawaiian shirt

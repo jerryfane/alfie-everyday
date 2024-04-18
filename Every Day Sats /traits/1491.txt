@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: depression
+HEAD: Wif hat
+EYES: Aviator
+BODY: Tank top

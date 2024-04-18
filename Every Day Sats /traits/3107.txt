@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: anger
+HEAD: North Korean hat
+EYES: Degen
+BODY: Matrix Trenchcoat

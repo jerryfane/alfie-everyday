@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: anger
+HEAD: Mario cap
+EYES: None
+BODY: Pinc turtleneck

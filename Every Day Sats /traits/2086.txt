@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: optimism
+HEAD: Wizard hat
+EYES: None
+BODY: Stripe t-shirt

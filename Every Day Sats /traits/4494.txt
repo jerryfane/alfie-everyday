@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: anger
+HEAD: Wif hat
+EYES: Aviator
+BODY: Tank top

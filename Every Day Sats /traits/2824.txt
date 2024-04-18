@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: Heisenberg hat
+EYES: Nouns
+BODY: Black t-shirt

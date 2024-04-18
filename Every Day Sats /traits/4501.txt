@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: hope
+HEAD: Purple cap
+EYES: Gaga
+BODY: Pinc turtleneck

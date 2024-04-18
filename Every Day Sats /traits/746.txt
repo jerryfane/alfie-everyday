@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: depression
+HEAD: Supreme hat
+EYES: Elvis
+BODY: Racing jacket

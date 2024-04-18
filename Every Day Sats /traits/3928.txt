@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: euphoria
+HEAD: Royal Crown
+EYES: Mog
+BODY: Racing jacket

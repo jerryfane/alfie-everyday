@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: anger
+HEAD: Wif hat
+EYES: None
+BODY: Prada suit

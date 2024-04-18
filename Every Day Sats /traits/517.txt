@@ -1,0 +1,5 @@
+TYPE: Black Swan Pepe
+EMOTIONS: none
+HEAD: Farmer hat
+EYES: none
+BODY: Farmer shirt

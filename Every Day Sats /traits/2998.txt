@@ -1,0 +1,5 @@
+TYPE: Stoned Fox
+EMOTIONS: none
+HEAD: none
+EYES: Degen
+BODY: Purple hoodie

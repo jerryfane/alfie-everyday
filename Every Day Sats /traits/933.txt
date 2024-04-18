@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: optimism
+HEAD: Purple cap
+EYES: Degen
+BODY: Racing jacket

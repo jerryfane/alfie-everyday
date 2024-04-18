@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: Wif hat
+EYES: Future
+BODY: Prada suit

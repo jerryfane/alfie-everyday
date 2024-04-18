@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: optimism
+HEAD: Vietnam helmet
+EYES: Bitcoin
+BODY: Stripe t-shirt

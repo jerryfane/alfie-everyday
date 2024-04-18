@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: euphoria
+HEAD: Red hat
+EYES: Elvis
+BODY: Prada suit

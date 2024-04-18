@@ -1,0 +1,5 @@
+TYPE: Black Bull
+EMOTIONS: depression
+HEAD: none
+EYES: None
+BODY: Red hoodie

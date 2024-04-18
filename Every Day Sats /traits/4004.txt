@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: depression
+HEAD: MAGA cap
+EYES: Aviator
+BODY: Iron Man

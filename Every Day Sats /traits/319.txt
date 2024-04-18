@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: euphoria
+HEAD: none
+EYES: Professor
+BODY: Pinc turtleneck

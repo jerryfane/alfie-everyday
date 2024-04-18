@@ -1,0 +1,5 @@
+TYPE: Walking Chad
+EMOTIONS: hope
+HEAD: Red hat
+EYES: Elvis
+BODY: Prison jumpsuit

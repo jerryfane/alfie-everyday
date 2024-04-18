@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: anger
+HEAD: None
+EYES: none
+BODY: Black hoodie

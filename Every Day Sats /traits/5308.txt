@@ -1,0 +1,5 @@
+TYPE: E Girl
+EMOTIONS: anger
+HEAD: none
+EYES: None
+BODY: Red hoodie

@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: optimism
+HEAD: Cowboy hat
+EYES: Black raybans
+BODY: Goth t-shirt

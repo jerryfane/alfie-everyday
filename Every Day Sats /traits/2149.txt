@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: hope
+HEAD: North Korean hat
+EYES: None
+BODY: Moncler Jacket

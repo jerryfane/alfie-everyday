@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: depression
+HEAD: None
+EYES: Oculus
+BODY: Black t-shirt

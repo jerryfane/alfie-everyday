@@ -1,0 +1,5 @@
+TYPE: Machine
+EMOTIONS: none
+HEAD: Bucket hat
+EYES: Professor
+BODY: Gun holster

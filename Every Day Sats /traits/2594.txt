@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: optimism
+HEAD: Purple cap
+EYES: Elvis
+BODY: Racing jacket

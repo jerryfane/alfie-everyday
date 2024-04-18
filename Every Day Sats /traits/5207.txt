@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: anger
+HEAD: Supreme hat
+EYES: Future
+BODY: White t-shirt

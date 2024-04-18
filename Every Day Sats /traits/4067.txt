@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: optimism
+HEAD: Royal Crown
+EYES: none
+BODY: Black turtleneck

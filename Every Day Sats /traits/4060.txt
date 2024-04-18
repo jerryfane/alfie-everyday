@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: hope
+HEAD: Vietnam helmet
+EYES: Degen
+BODY: Prada suit

@@ -1,0 +1,5 @@
+TYPE: Igor Bogdanoff
+EMOTIONS: optimism
+HEAD: Cowboy hat
+EYES: Future
+BODY: Matrix Trenchcoat

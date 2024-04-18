@@ -1,0 +1,5 @@
+TYPE: Gold Maxi
+EMOTIONS: optimism
+HEAD: Vietnam helmet
+EYES: None
+BODY: Stripe t-shirt

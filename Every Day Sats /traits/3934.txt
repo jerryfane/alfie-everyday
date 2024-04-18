@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: optimism
+HEAD: Rise farmer hat
+EYES: Professor
+BODY: Green turtleneck

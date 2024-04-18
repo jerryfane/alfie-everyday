@@ -1,0 +1,5 @@
+TYPE: PTSD Dog
+EMOTIONS: none
+HEAD: Gamer headset
+EYES: None
+BODY: none

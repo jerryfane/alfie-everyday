@@ -1,0 +1,5 @@
+TYPE: Degen
+EMOTIONS: optimism
+HEAD: Mexican Hat
+EYES: Degen
+BODY: Hawaiian shirt

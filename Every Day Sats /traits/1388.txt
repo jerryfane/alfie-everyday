@@ -1,0 +1,5 @@
+TYPE: Machine
+EMOTIONS: none
+HEAD: Cowboy hat
+EYES: Lasereyes
+BODY: None

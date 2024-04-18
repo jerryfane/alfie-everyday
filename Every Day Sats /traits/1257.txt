@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: hope
+HEAD: Farmer hat
+EYES: None
+BODY: Farmer shirt

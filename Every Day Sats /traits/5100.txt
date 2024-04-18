@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: euphoria
+HEAD: Purple cap
+EYES: Mog
+BODY: Purple t-shirt

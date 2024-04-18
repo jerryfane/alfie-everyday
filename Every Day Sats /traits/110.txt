@@ -1,0 +1,5 @@
+TYPE: Gigachad
+EMOTIONS: euphoria
+HEAD: Bucket hat
+EYES: Aviator
+BODY: None

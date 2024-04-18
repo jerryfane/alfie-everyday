@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: euphoria
+HEAD: Rise farmer hat
+EYES: none
+BODY: Orange pimp coat_

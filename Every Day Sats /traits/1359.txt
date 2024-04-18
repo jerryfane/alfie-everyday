@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: None
+EYES: Apple Vision Pro
+BODY: Black turtleneck

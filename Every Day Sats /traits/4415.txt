@@ -1,0 +1,5 @@
+TYPE: OF Girl
+EMOTIONS: anger
+HEAD: Tinfoil hat
+EYES: None
+BODY: Vitalik tee

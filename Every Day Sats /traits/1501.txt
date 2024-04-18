@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: optimism
+HEAD: Mario cap
+EYES: none
+BODY: White t-shirt

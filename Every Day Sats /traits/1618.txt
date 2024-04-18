@@ -1,0 +1,5 @@
+TYPE: Ape
+EMOTIONS: depression
+HEAD: Gran Autismo cap
+EYES: Degen
+BODY: Matrix Trenchcoat

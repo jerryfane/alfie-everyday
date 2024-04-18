@@ -1,0 +1,5 @@
+TYPE: Belisarius
+EMOTIONS: hope
+HEAD: Beanie cap
+EYES: None
+BODY: None

@@ -1,0 +1,5 @@
+TYPE: Drug dealer
+EMOTIONS: depression
+HEAD: McD cap
+EYES: Nuked
+BODY: Black t-shirt

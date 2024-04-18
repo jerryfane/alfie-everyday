@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: anger
+HEAD: Heisenberg hat
+EYES: X
+BODY: Prison jumpsuit

@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: euphoria
+HEAD: Chef’s hat
+EYES: Lasereyes
+BODY: None

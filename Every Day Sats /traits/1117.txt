@@ -1,0 +1,5 @@
+TYPE: Chinese Influencer
+EMOTIONS: hope
+HEAD: Mexican Hat
+EYES: None
+BODY: Orange pimp coat_

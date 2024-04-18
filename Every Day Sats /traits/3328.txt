@@ -1,0 +1,5 @@
+TYPE: Goblin
+EMOTIONS: hope
+HEAD: McD cap
+EYES: Mog
+BODY: None

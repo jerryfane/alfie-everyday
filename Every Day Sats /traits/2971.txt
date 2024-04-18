@@ -1,0 +1,5 @@
+TYPE: El Risitas
+EMOTIONS: anger
+HEAD: Beanie cap
+EYES: Nuked
+BODY: Iron Man

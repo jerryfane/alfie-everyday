@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: hope
+HEAD: Rise farmer hat
+EYES: None
+BODY: Prison jumpsuit

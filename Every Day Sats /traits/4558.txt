@@ -1,0 +1,5 @@
+TYPE: Gamer
+EMOTIONS: anger
+HEAD: Wizard hat
+EYES: Aviator
+BODY: Tank top

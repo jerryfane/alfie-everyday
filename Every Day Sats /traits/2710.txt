@@ -1,0 +1,5 @@
+TYPE: Red Panda
+EMOTIONS: hope
+HEAD: Royal Crown
+EYES: Degen
+BODY: Orange pimp coat_

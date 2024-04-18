@@ -1,0 +1,5 @@
+TYPE: Orangutan
+EMOTIONS: anger
+HEAD: none
+EYES: Black raybans
+BODY: Orange pill suit

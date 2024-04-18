@@ -1,0 +1,5 @@
+TYPE: Monkey Puppet
+EMOTIONS: hope
+HEAD: Mexican Hat
+EYES: None
+BODY: Hawaiian shirt

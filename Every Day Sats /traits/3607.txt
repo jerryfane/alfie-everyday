@@ -1,0 +1,5 @@
+TYPE: Capybara
+EMOTIONS: euphoria
+HEAD: Bitcoin cap
+EYES: none
+BODY: none

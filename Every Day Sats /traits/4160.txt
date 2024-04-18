@@ -1,0 +1,5 @@
+TYPE: Grichka Bogdanoff
+EMOTIONS: euphoria
+HEAD: Vietnam helmet
+EYES: Degen
+BODY: Tank top

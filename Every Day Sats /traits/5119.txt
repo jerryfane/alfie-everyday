@@ -1,0 +1,5 @@
+TYPE: Wojak Girl
+EMOTIONS: anger
+HEAD: Red hat
+EYES: Degen
+BODY: Moncler Jacket

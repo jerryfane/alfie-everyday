@@ -1,0 +1,5 @@
+TYPE: Wojak
+EMOTIONS: euphoria
+HEAD: MAGA cap
+EYES: Mog
+BODY: none

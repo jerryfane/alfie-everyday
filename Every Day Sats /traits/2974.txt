@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: depression
+HEAD: Purple cap
+EYES: Future
+BODY: Racing jacket

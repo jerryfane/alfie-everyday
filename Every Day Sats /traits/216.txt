@@ -1,0 +1,5 @@
+TYPE: Pepe
+EMOTIONS: euphoria
+HEAD: Mexican Hat
+EYES: Mog
+BODY: Gary suit

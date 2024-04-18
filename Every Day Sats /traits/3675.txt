@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: hope
+HEAD: Beanie cap
+EYES: None
+BODY: Gary suit

@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: anger
+HEAD: Heisenberg hat
+EYES: None
+BODY: Matrix Trenchcoat

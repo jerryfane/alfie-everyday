@@ -1,0 +1,5 @@
+TYPE: Adoration Girl
+EMOTIONS: hope
+HEAD: Supreme hat
+EYES: none
+BODY: Prison jumpsuit

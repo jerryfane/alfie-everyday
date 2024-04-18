@@ -1,0 +1,5 @@
+TYPE: Persian Cat
+EMOTIONS: none
+HEAD: Royal Crown
+EYES: Elvis
+BODY: Moncler Jacket

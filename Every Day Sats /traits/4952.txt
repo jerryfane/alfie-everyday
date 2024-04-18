@@ -1,0 +1,5 @@
+TYPE: Brent Rambo
+EMOTIONS: anger
+HEAD: Mexican Hat
+EYES: Mog
+BODY: Racing jacket

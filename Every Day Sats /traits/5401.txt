@@ -1,0 +1,5 @@
+TYPE: Anakin
+EMOTIONS: depression
+HEAD: Wif hat
+EYES: Mog
+BODY: Pink pimp coat_

@@ -1,0 +1,5 @@
+TYPE: Three Letter Agent
+EMOTIONS: hope
+HEAD: Bitcoin cap
+EYES: None
+BODY: None

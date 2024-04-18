@@ -1,0 +1,5 @@
+TYPE: Clown
+EMOTIONS: optimism
+HEAD: Wizard hat
+EYES: none
+BODY: White t-shirt

@@ -1,0 +1,5 @@
+TYPE: Trader Girl
+EMOTIONS: anger
+HEAD: Cowboy hat
+EYES: Gaga
+BODY: Cream turtleneck

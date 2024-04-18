@@ -1,0 +1,5 @@
+TYPE: Gamer Girl
+EMOTIONS: anger
+HEAD: None
+EYES: none
+BODY: PepeGirl dress

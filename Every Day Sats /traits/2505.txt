@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: anger
+HEAD: North Korean hat
+EYES: Professor
+BODY: Black turtleneck

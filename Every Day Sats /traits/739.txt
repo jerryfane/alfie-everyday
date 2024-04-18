@@ -1,0 +1,5 @@
+TYPE: North Korean Hacker
+EMOTIONS: none
+HEAD: North Korean hat
+EYES: Aviator
+BODY: Matrix Trenchcoat

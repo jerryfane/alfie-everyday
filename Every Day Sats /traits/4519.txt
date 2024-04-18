@@ -1,0 +1,5 @@
+TYPE: Clown
+EMOTIONS: euphoria
+HEAD: none
+EYES: Professor
+BODY: Pink pimp coat_

@@ -1,0 +1,5 @@
+TYPE: Persian Chad
+EMOTIONS: euphoria
+HEAD: Cowboy hat
+EYES: Mog
+BODY: Green blazer

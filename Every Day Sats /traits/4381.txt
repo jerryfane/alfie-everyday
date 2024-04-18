@@ -1,0 +1,5 @@
+TYPE: Mad Man
+EMOTIONS: depression
+HEAD: Bitcoin cap
+EYES: Bitcoin
+BODY: Black turtleneck

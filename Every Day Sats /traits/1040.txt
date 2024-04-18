@@ -1,0 +1,5 @@
+TYPE: Black Bear
+EMOTIONS: anger
+HEAD: Mario cap
+EYES: Elvis
+BODY: Moncler Jacket
